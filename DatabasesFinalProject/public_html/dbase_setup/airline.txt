@@ -1,0 +1,91 @@
+Tradewind Aviation	04Q
+Multi-Aero	0MQ
+Charter Air Transport	1AQ
+City Wings	1QQ
+Sun Air Express	1RQ
+Star Marianas Air	1SQ
+Air Charter (Air Flamenco)	1YQ
+Gem Air	22Q
+Smokey Bay Air	2E
+Alaska Air Transit	2EQ
+Elite Airways	2HQ
+Tropic Ocean Airways	2LQ
+Island Air Service	2O
+Air Unlimited Charter Services	2TQ
+Key Lime Air	38Q
+Maritime Helicopters	3AQ
+Watermakers Air	3BQ
+Rectrix Aviation	3DQ
+Pacific Airways	3F
+Silver Airways	3M
+Boutique Air	4B
+Warbelow	4W
+Tatonduk	5V
+Era Aviation	7H
+Arctic Transportation	7S
+Bering Air	8E
+Wright Air Service	8V
+Endeavor Air Inc.	9E
+Cape Air	9K
+American Airlines	AA
+Air Sunshine	AAT
+ADVANCED AIR LLC	AN
+Aloha Airlines Inc.	AQÊ
+Alaska Airlines	AS
+Trans States Airlines	AX
+JetBlue Airways	B6
+Commutair	C5
+Continental Air Lines Inc.	COÊ
+Compass Airlines	CP
+Independence Air	DHÊ
+Delta Air Lines	DL
+Ellis Air Taxi	ELL
+Empire Airlines	EM
+ExpressJet Airlines	EV
+Frontier Airlines	F9
+AirTran Airways Corporation	FLÊ
+Allegiant Air	G4
+GoJet Airlines	G7
+Grant Aviation	GV
+Hageland Aviation Service	H6
+Hawaiian Airlines	HA
+Harris Air Services	HBQ
+America West Airlines Inc.	HPÊ
+Island Air Express	I4
+Kalinin Aviation (Alaska Seaplanes)	J5
+Yute Commuter Service	K2
+Venture Travel	K3
+Kenmore Air Harbor	KAH
+Katmai Air	KAT
+Peninsula Airways	KS
+Contour Airlines	LF
+Envoy Air	MQ
+Mokulele Flight Services	MW
+New England Airlines	NEW
+Spirit Airlines	NK
+Northwest Airlines Inc.	NWÊ
+PSA Airlines	OH
+Comair Inc.	OHÊ
+SkyWest Airlines	OO
+Piedmont Airlines	PT
+40-Mile Air	Q5
+Horizon Air	QX
+Reeve Air Alaska	RVQ
+Seaborne Virgin Islands	SEB
+Spernak Airways	SNK
+Sun Country Airlines	SY
+ATA Airlines d/b/a ATA	TZÊ
+United Airlines	UA
+US Airways Inc.	USÊ
+Iliamna Air Taxi	V8
+Vieques Air Link	VI
+Virgin America	VXÊ
+Southwest Airlines	WN
+Friday Harbor Seaplanes	WST
+Air Excursions	X4
+ExpressJet Airlines Inc.	XEÊ
+Grand Canyon Airlines	YR
+Mesa Airlines	YV
+Republic Airline	YX
+Tanana Air Service	Z3
+Air Wisconsin Airlines	ZW

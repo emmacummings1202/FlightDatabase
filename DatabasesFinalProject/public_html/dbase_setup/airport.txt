@@ -1,0 +1,69 @@
+Albuquerque	NM	ABQ	Albuquerque International Sunport
+Anchorage	AK	ANC	Ted Stevens Anchorage International
+Atlanta	GA	ATL	Hartsfield-Jackson Atlanta Internatio
+Austin	TX	AUS	Austin - Bergstrom International
+Baltimore	MD	BWI	Baltimore/Washington International
+Boston	MA	BOS	Logan International
+Buffalo	NY	BUF	Buffalo Niagara International
+Burbank	CA	BUR	Bob Hope
+Charlotte	NC	CLT	Charlotte Douglas International
+Chicago Midway	IL	MDW	Chicago Midway International
+Chicago O'Hare	IL	ORD	Chicago O'Hare International
+Cincinnati	OH	CVG	Cincinnati/Northern Kentucky Inter
+Cleveland	OH	CLE	Cleveland-Hopkins International
+Colorado Springs	CO	COS	City of Colorado Springs Mun
+Columbus	OH	CMH	John Glenn Columbus International
+Dallas	TX	DAL	Dallas Love Field
+Dallas/Fort Worth	TX	DFW	Dallas/Fort Worth Internati
+Denver	CO	DEN	Denver International
+Detroit Metro	MI	DTW	Detroit Metro Wayne County
+El Paso	TX	ELP	El Paso International
+Fort Lauderdale	FL	FLL	Fort Lauderdale-Hollywood Int
+Fort Myers	FL	RSW	Southwest Florida International
+Hartford	CT	BDL	Bradley International
+Honolulu	HI	HNL	Daniel K Inouye International
+Houston	TX	HOU	William P Hobby
+Houston Bush	TX	IAH	George Bush Intercontinental/Houston
+Indianapolis	IN	IND	Indianapolis International
+Jacksonville	FL 	JAX	Jacksonville International
+Kahului	HI	OGG	Kahului Airport
+Kalispell	MT	FCA	Glacier Park International
+Kansas City	MO	MCI	Kansas City International
+Las Vegas	NV	LAS	McCarran International
+Los Angeles	CA	LAX	Los Angeles International
+Memphis	TN	MEM	Memphis International
+Miami	FL 	MIA	Miami International
+Milwaukee	WI	MKE	General Mitchell International
+Minneapolis	MN	MSP	Minneapolis-St Paul International
+Nashville	TN	BNA	Nashville International
+New Orleans	LA	MSY	Louis Armstrong New Orleans Inter
+New York	NY	JFK	John F. Kennedy International
+New York LaGuardia	NY	LGA	LaGuardia
+Newark	NJ	EWR	Newark Liberty International
+Oakland	CA	OAK	Metropolitan Oakland International
+Ontario	CA	ONT	Ontario International
+Orlando	FL	MCO	Orlando International
+Philadelphia	PA	PHL	Philadelphia International
+Phoenix	AZ	PHX	Phoenix Sky Harbor International
+Pittsburgh	PA	PIT	Pittsburgh International
+Portland	OR	PDX	Portland International
+Prescott	AZ	PRC	Prescott Regional Ernest A Love Fiel
+Providence	RI	PVD	Theodore Francis Green State
+Raleigh/Durham	NC	RDU	Raleigh-Durham International
+Sacramento	CA	SMF	Sacramento International
+Salt Lake City	UT	SLC	Salt Lake City International
+San Antonio	TX	SAT	San Antonio International
+San Diego	CA	SAN	San Diego International
+San Jose	CA	SJC	Norman Y. Mineta San Jose Internatio
+San Juan	PR	SJU	Luis Munoz Marin International
+Santa Ana	CA	SNA	John Wayne Airport-Orange County
+Seattle	WA	SEA	Seattle/Tacoma International
+Spokane	WA	GEG	Spokane International
+St. George	UT	SGU	St George Regional
+St. Louis	MO	STL	St Louis Lambert International
+Tampa	FL	TPA	Tampa International
+Waco	TX	ACT	Waco Regional
+Washington Dulles	DC	IAD	Ronald Reagan Washington National
+Washington National	DC	DCA	Washington Dulles International
+West Palm Beach/Palm Beach	FL	PBI	Palm Beach Interna
+West Yellowstone	MT	WYS	Yellowstone

@@ -1,0 +1,9 @@
+1,Delta Air Lines,DL,17117507,22.2,2020
+2,American Airlines,AA,17335011,22.5,2020
+3,United Airlines,UA,15355447,19.9,2020
+4,Southwest Airlines,WN,9048061,11.8,2020
+5,Alaska Airlines,AS,3563386,4.6,2020
+6,JetBlue Airways,B6,2956562,3.8,2020
+7,Spirit Air Lines,NK,1810022,2.4,2020
+8,SkyWest Airlines,OO,2086604,2.7,2020
+

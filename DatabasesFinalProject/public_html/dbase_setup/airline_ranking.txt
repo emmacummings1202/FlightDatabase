@@ -1,0 +1,960 @@
+Delta Air Lines  	DL	3	1.0557E+11	3	" 71,615,445.00 "	2	20972590	2008
+United Airlines	UA	2	1.09806E+11	4	" 63,070,770.00 "	3	20237248	2008
+American Airlines	AA	1	1.3173E+11	2	" 92,772,044.00 "	1	23696100	2008
+Southwest Airlines 	WN	5	73497806970	1	" 101,920,598.00 "	7	11023243	2008
+JetBlue Airways	B6	8	26070664349	9	" 21,824,403.00 "	8	3390181	2008
+Alaska Airlines  	AS	10	18696972174	11	" 16,789,046.00 "	9	3221431	2008
+Spirit Airlines	NK	16	6599368580	23	" 6,819,875.00 "	19	788837	2008
+Frontier Airlines  	F9	12	9855429158	16	" 10,577,088.00 "	14	1370900	2008
+SkyWest Airlines  	OO	11	11156547926	10	" 20,668,204.00 "	12	2063613	2008
+Hawaiian Airlines  	HA	14	7846844952	19	" 7,848,572.00 "	17	1211733	2008
+Allegiant Air	G4	22	3492224167	28	" 3,889,544.00 "	/N	/N	2008
+Republic Airline	YX	21	3575290121	22	" 7,109,100.00 "	/N	/N	2008
+Mesa Airlines  	YV	18	5073729398	15	" 11,181,822.00 "	18	1037815	2008
+Envoy Air	MQ	15	7383784963	12	" 16,558,194.00 "	11	2224075	2008
+Endeavor 	9E	19	4820530624	17	" 10,331,557.00 "	/N	/N	2008
+PSA Airlines  	OH	20	4130476973	18	" 8,097,809.00 "	16	1286135	2008
+Sun Country Airlines 	SY	31	1970326321	38	" 1,445,966.00 "	/N	/N	2008
+Compass Airlines	CP	35	1517951632	35	" 2,132,875.00 "	/N	/N	2008
+Horizon Air	QX	27	2636316548	21	" 7,389,899.00 "	20	733948	2008
+ExpressJet Airlines  	EV	17	5948892243	14	" 12,456,886.00 "	13	1432682	2008
+GoJet Airlines   	G7	36	922987673	37	" 1,491,304.00 "	/N	/N	2008
+Air Wisconsin Airlines  	ZW	30	2099377326	24	" 5,593,952.00 "	21	667715	2008
+Trans States Airlines	AX	34	1547459226	29	" 3,495,153.00 "	/N	/N	2008
+Piedmont Airlines	PT	/N	/N	/N	 /N 	/N	/N	2008
+Commutair 	C5	47	141954053	44	" 698,116.00 "	/N	/N	2008
+Silver Airways	3M	48	127585973	45	" 629,563.00 "	/N	/N	2008
+Era Aviation	7H	51	52901178	49	" 348,244.00 "	/N	/N	2008
+Peninsula Airways	KS	49	96063707	51	" 223,129.00 "	/N	/N	2008
+Contour Airlines	LF	/N	/N	/N	 /N 	/N	/N	2008
+Cape Air	9K	50	55153833	43	" 701,647.00 "	/N	/N	2008
+Boutique Air	4B	/N	/N	/N	 /N 	/N	/N	2008
+Elite Airways	2HQ	/N	/N	/N	 /N 	/N	/N	2008
+Seaborne Virgin Islands	SEB	60	7098468	52	" 147,595.00 "	/N	/N	2008
+Hageland Aviation Service	H6	56	13699503	54	" 132,464.00 "	/N	/N	2008
+Sun Air Express 	1RQ	/N	/N	/N	 /N 	/N	/N	2008
+Empire Airlines	EM	/N	/N	/N	 /N 	/N	/N	2008
+Multi-Aero   	0MQ	/N	/N	/N	 /N 	/N	/N	2008
+Key Lime Air	38Q	/N	/N	/N	 /N 	/N	/N	2008
+Wright Air Service	8V	65	4362804	69	" 21,723.00 "	/N	/N	2008
+Grant Aviation	GV	58	10397624	56	" 116,741.00 "	/N	/N	2008
+Mokulele Flight Services  	MW	/N	/N	/N	 /N 	/N	/N	2008
+Bering Air  	8E	63	6329916	63	" 62,095.00 "	/N	/N	2008
+ADVANCED AIR LLC	AN	/N	/N	/N	 /N 	/N	/N	2008
+Tradewind Aviation	04Q	75	862818	/N	 /N 	/N	/N	2008
+Kalinin Aviation (Alaska Seaplanes)	J5	/N	/N	/N	 /N 	/N	/N	2008
+Watermakers Air	3BQ	/N	/N	/N	 /N 	/N	/N	2008
+Kenmore Air Harbor	KAH	59	8400050	58	" 105,787.00 "	/N	/N	2008
+Charter Air Transport	1AQ	/N	/N	/N	 /N 	/N	/N	2008
+Vieques Air Link  	VI	74	1255264	68	" 26,585.00 "	/N	/N	2008
+Star Marianas Air 	1SQ	/N	/N	/N	 /N 	/N	/N	2008
+Air Sunshine 	AAT	/N	/N	/N	 /N 	/N	/N	2008
+Iliamna Air Taxi	V8	68	2341413	75	" 12,442.00 "	/N	/N	2008
+Air Unlimited Charter Services	2TQ	/N	/N	/N	 /N 	/N	/N	2008
+Island Air Express	I4	/N	/N	/N	 /N 	/N	/N	2008
+Venture Travel   	K3	/N	/N	/N	 /N 	/N	/N	2008
+City Wings 	1QQ	/N	/N	/N	 /N 	/N	/N	2008
+Yute Commuter Service	K2	/N	/N	/N	 /N 	/N	/N	2008
+Tropic Ocean Airways	2LQ	/N	/N	/N	 /N 	/N	/N	2008
+Tatonduk 	5V	/N	/N	/N	 /N 	/N	/N	2008
+Rectrix Aviation	3DQ	/N	/N	/N	 /N 	/N	/N	2008
+New England Airlines  	NEW	/N	/N	70	" 21,485.00 "	/N	/N	2008
+Island Air Service	2O	77	637831	78	" 11,227.00 "	/N	/N	2008
+Warbelow	4W	61	6998779	66	" 37,169.00 "	/N	/N	2008
+Air Charter (Air Flamenco)	1YQ	/N	/N	/N	 /N 	/N	/N	2008
+Katmai Air	KAT	79	489204	77	" 11,501.00 "	/N	/N	2008
+Air Excursions  	X4	/N	/N	/N	 /N 	/N	/N	2008
+Pacific Airways  	3F	76	666892	72	" 14,952.00 "	/N	/N	2008
+Harris Air Services	HBQ	/N	/N	/N	 /N 	/N	/N	2008
+Smokey Bay Air  	2E	/N	/N	/N	 /N 	/N	/N	2008
+Friday Harbor Seaplanes	WST	/N	/N	/N	 /N 	/N	/N	2008
+Tanana Air Service	Z3	/N	/N	/N	 /N 	/N	/N	2008
+Grand Canyon Airlines 	YR	64	5721244	60	" 69,534.00 "	/N	/N	2008
+Gem Air	22Q	/N	/N	/N	 /N 	/N	/N	2008
+Arctic Transportation	7S	/N	/N	/N	 /N 	/N	/N	2008
+Reeve Air Alaska 	RVQ	/N	/N	/N	 /N 	/N	/N	2008
+40-Mile Air	Q5	/N	/N	/N	 /N 	/N	/N	2008
+Alaska Air Transit	2EQ	/N	/N	/N	 /N 	/N	/N	2008
+Ellis Air Taxi  	ELL	/N	/N	/N	 /N 	/N	/N	2008
+Maritime Helicopters	3AQ	/N	/N	/N	 /N 	/N	/N	2008
+Spernak Airways  	SNK	/N	/N	/N	 /N 	/N	/N	2008
+Delta Air Lines  	DL	2	1.00604E+11	 3.00 	67744784	2	18046578	2009
+United Airlines	UA	3	1.00315E+11	 4.00 	56024719	3	16359238	2009
+American Airlines	AA	1	1.22375E+11	 2.00 	85720465	1	19898245	2009
+Southwest Airlines 	WN	5	74458591858	 1.00 	101338228	7	10350338	2009
+JetBlue Airways	B6	8	25949163598	 9.00 	22378273	8	3287412	2009
+Alaska Airlines  	AS	10	18319605424	 12.00 	15523498	9	3005999	2009
+Spirit Airlines	NK	16	5940134125	 23.00 	6088588	18	698966	2009
+Frontier Airlines  	F9	12	8616954113	 17.00 	9477089	14	1113397	2009
+SkyWest Airlines  	OO	11	11720147975	 10.00 	21246408	12	1731346	2009
+Hawaiian Airlines  	HA	13	8136912612	 19.00 	8339976	13	1183619	2009
+Allegiant Air	G4	22	4471610546	 27.00 	4920186	/N	/N	2009
+Republic Airline	YX	20	4677041603	 18.00 	8879275	/N	/N	2009
+Mesa Airlines  	YV	19	4822936208	 15.00 	10962729	17	832707	2009
+Envoy Air	MQ	15	7146025626	 11.00 	16012851	11	1845823	2009
+Endeavor 	9E	21	4640495118	 16.00 	10744326	21	618376	2009
+PSA Airlines  	OH	24	3195913746	 22.00 	6314513	16	860540	2009
+Sun Country Airlines 	SY	32	1523891422	 39.00 	1128806	/N	/N	2009
+Compass Airlines	CP	28	2292630561	 30.00 	3198297	/N	/N	2009
+Horizon Air	QX	27	2408760440	 20.00 	6759057	20	654362	2009
+ExpressJet Airlines  	EV	17	5751351071	 14.00 	13169686	15	882570	2009
+GoJet Airlines   	G7	34	1243277393	 35.00 	2114189	/N	/N	2009
+Air Wisconsin Airlines  	ZW	30	2041293310	 25.00 	5576139	/N	/N	2009
+Trans States Airlines	AX	35	1003140212	 34.00 	2445344	/N	/N	2009
+Piedmont Airlines	PT	/N	/N	 /N 	/N	/N	/N	2009
+Commutair 	C5	42	144922374	 41.00 	831424	/N	/N	2009
+Silver Airways	3M	45	91842579	 46.00 	415932	/N	/N	2009
+Era Aviation	7H	46	55258523	 47.00 	331000	/N	/N	2009
+Peninsula Airways	KS	44	92402322	 48.00 	216043	/N	/N	2009
+Contour Airlines	LF	/N	/N	 /N 	/N	/N	/N	2009
+Cape Air	9K	47	53882684	 43.00 	628287	/N	/N	2009
+Boutique Air	4B	/N	/N	 /N 	/N	/N	/N	2009
+Elite Airways	2HQ	/N	/N	 /N 	/N	/N	/N	2009
+Seaborne Virgin Islands	SEB	52	9017466	 49.00 	166471	/N	/N	2009
+Hageland Aviation Service	H6	50	13323053	 50.00 	133205	/N	/N	2009
+Sun Air Express 	1RQ	/N	/N	 /N 	/N	/N	/N	2009
+Empire Airlines	EM	/N	/N	 /N 	/N	/N	/N	2009
+Multi-Aero   	0MQ	69	319319	 76.00 	1934	/N	/N	2009
+Key Lime Air	38Q	/N	/N	 /N 	/N	/N	/N	2009
+Wright Air Service	8V	59	4442793	 61.00 	22217	/N	/N	2009
+Grant Aviation	GV	51	9693287	 51.00 	111243	/N	/N	2009
+Mokulele Flight Services  	MW	/N	/N	 /N 	/N	/N	/N	2009
+Bering Air  	8E	56	6032381	 56.00 	56834	/N	/N	2009
+ADVANCED AIR LLC	AN	/N	/N	 /N 	/N	/N	/N	2009
+Tradewind Aviation	04Q	64	902719	 75.00 	4556	/N	/N	2009
+Kalinin Aviation (Alaska Seaplanes)	J5	68	356716	 72.00 	5739	/N	/N	2009
+Watermakers Air	3BQ	/N	/N	 /N 	/N	/N	/N	2009
+Kenmore Air Harbor	KAH	53	8581254	 52.00 	98838	/N	/N	2009
+Charter Air Transport	1AQ	/N	/N	 /N 	/N	/N	/N	2009
+Vieques Air Link  	VI	63	1249262	 60.00 	25548	/N	/N	2009
+Star Marianas Air 	1SQ	/N	/N	 /N 	/N	/N	/N	2009
+Air Sunshine 	AAT	/N	/N	 /N 	/N	/N	/N	2009
+Iliamna Air Taxi	V8	62	1737038	 68.00 	9245	/N	/N	2009
+Air Unlimited Charter Services	2TQ	/N	/N	 /N 	/N	/N	/N	2009
+Island Air Express	I4	/N	/N	 /N 	/N	/N	/N	2009
+Venture Travel   	K3	78	112037	 77.00 	1888	/N	/N	2009
+City Wings 	1QQ	/N	/N	 /N 	/N	/N	/N	2009
+Yute Commuter Service	K2	/N	/N	 /N 	/N	/N	/N	2009
+Tropic Ocean Airways	2LQ	/N	/N	 /N 	/N	/N	/N	2009
+Tatonduk 	5V	/N	/N	 /N 	/N	/N	/N	2009
+Rectrix Aviation	3DQ	/N	/N	 /N 	/N	/N	/N	2009
+New England Airlines  	NEW	71	293522	 63.00 	17266	/N	/N	2009
+Island Air Service	2O	66	608509	 66.00 	11944	/N	/N	2009
+Warbelow	4W	55	6715855	 59.00 	35095	/N	/N	2009
+Air Charter (Air Flamenco)	1YQ	/N	/N	 /N 	/N	/N	/N	2009
+Katmai Air	KAT	73	230124	 70.00 	6712	/N	/N	2009
+Air Excursions  	X4	/N	/N	 /N 	/N	/N	/N	2009
+Pacific Airways  	3F	65	661757	 64.00 	15310	/N	/N	2009
+Harris Air Services	HBQ	/N	/N	 /N 	/N	/N	/N	2009
+Smokey Bay Air  	2E	75	202396	 69.00 	8721	/N	/N	2009
+Friday Harbor Seaplanes	WST	76	148914	 73.00 	5156	/N	/N	2009
+Tanana Air Service	Z3	67	390512	 67.00 	9755	/N	/N	2009
+Grand Canyon Airlines 	YR	/N	/N	 /N 	/N	/N	/N	2009
+Gem Air	22Q	/N	/N	 /N 	/N	/N	/N	2009
+Arctic Transportation	7S	/N	/N	 /N 	/N	/N	/N	2009
+Reeve Air Alaska 	RVQ	/N	/N	 /N 	/N	/N	/N	2009
+40-Mile Air	Q5	79	70114	 80.00 	474	/N	/N	2009
+Alaska Air Transit	2EQ	/N	/N	 /N 	/N	/N	/N	2009
+Ellis Air Taxi  	ELL	/N	/N	 /N 	/N	/N	/N	2009
+Maritime Helicopters	3AQ	/N	/N	 /N 	/N	/N	/N	2009
+Spernak Airways  	SNK	/N	/N	 /N 	/N	/N	/N	2009
+Delta Air Lines  	DL	1	1.67664E+11	1	110925275	1	31893702	2010
+United Airlines	UA	3	1.02499E+11	4	54080087	3	19682320	2010
+American Airlines	AA	2	1.25445E+11	3	86128633	2	22150940	2010
+Southwest Airlines 	WN	5	78049206903	2	106227521	6	12103710	2010
+JetBlue Airways	B6	7	28275860420	9	24198698	7	3780816	2010
+Alaska Airlines  	AS	8	20306487915	10	16478100	8	3426625	2010
+Spirit Airlines	NK	15	6626603339	20	6750835	15	778905	2010
+Frontier Airlines  	F9	12	9198204999	16	9240895	12	1316949	2010
+SkyWest Airlines  	OO	10	13259862498	8	24218184	11	1904472	2010
+Hawaiian Airlines  	HA	13	8660290055	18	8417732	13	1312221	2010
+Allegiant Air	G4	19	5202549669	25	5609931	/N	/N	2010
+Republic Airline	YX	17	6089019082	14	11038151	16	747847	2010
+Mesa Airlines  	YV	21	4073775536	17	9042292	18	732223	2010
+Envoy Air	MQ	14	7985801448	12	16246048	10	1992181	2010
+Endeavor 	9E	20	4667530294	15	10874562	21	655915	2010
+PSA Airlines  	OH	24	3124689924	21	6448772	/N	/N	2010
+Sun Country Airlines 	SY	32	1517875263	36	1118385	/N	/N	2010
+Compass Airlines	CP	27	2337377686	29	3344783	/N	/N	2010
+Horizon Air	QX	26	2450252458	19	6819039	20	679923	2010
+ExpressJet Airlines  	EV	18	5773479505	13	13930942	17	746379	2010
+GoJet Airlines   	G7	31	1627386832	33	2667289	/N	/N	2010
+Air Wisconsin Airlines  	ZW	29	1963173019	23	5891404	/N	/N	2010
+Trans States Airlines	AX	33	854466034	34	2188016	/N	/N	2010
+Piedmont Airlines	PT	/N	/N	/N	/N	/N	/N	2010
+Commutair 	C5	40	151339549	37	883510	/N	/N	2010
+Silver Airways	3M	43	83219839	43	384318	/N	/N	2010
+Era Aviation	7H	44	64413665	44	359236	/N	/N	2010
+Peninsula Airways	KS	42	92983395	46	219616	/N	/N	2010
+Contour Airlines	LF	/N	/N	/N	/N	/N	/N	2010
+Cape Air	9K	45	59191503	39	659258	/N	/N	2010
+Boutique Air	4B	/N	/N	/N	/N	/N	/N	2010
+Elite Airways	2HQ	/N	/N	/N	/N	/N	/N	2010
+Seaborne Virgin Islands	SEB	48	10868899	47	198157	/N	/N	2010
+Hageland Aviation Service	H6	47	17167725	48	165755	/N	/N	2010
+Sun Air Express 	1RQ	/N	/N	/N	/N	/N	/N	2010
+Empire Airlines	EM	/N	/N	/N	/N	/N	/N	2010
+Multi-Aero   	0MQ	62	1793864	68	11573	/N	/N	2010
+Key Lime Air	38Q	/N	/N	/N	/N	/N	/N	2010
+Wright Air Service	8V	57	4643850	61	23506	/N	/N	2010
+Grant Aviation	GV	49	10105758	49	118872	/N	/N	2010
+Mokulele Flight Services  	MW	/N	/N	/N	/N	/N	/N	2010
+Bering Air  	8E	55	6603073	54	63064	/N	/N	2010
+ADVANCED AIR LLC	AN	/N	/N	/N	/N	/N	/N	2010
+Tradewind Aviation	04Q	64	1098334	74	5351	/N	/N	2010
+Kalinin Aviation (Alaska Seaplanes)	J5	69	378985	73	6058	/N	/N	2010
+Watermakers Air	3BQ	/N	/N	/N	/N	/N	/N	2010
+Kenmore Air Harbor	KAH	52	7775497	52	88179	/N	/N	2010
+Charter Air Transport	1AQ	/N	/N	/N	/N	/N	/N	2010
+Vieques Air Link  	VI	60	2249673	55	61832	/N	/N	2010
+Star Marianas Air 	1SQ	/N	/N	/N	/N	/N	/N	2010
+Air Sunshine 	AAT	/N	/N	/N	/N	/N	/N	2010
+Iliamna Air Taxi	V8	63	1660687	70	8804	/N	/N	2010
+Air Unlimited Charter Services	2TQ	/N	/N	/N	/N	/N	/N	2010
+Island Air Express	I4	/N	/N	/N	/N	/N	/N	2010
+Venture Travel   	K3	78	108651	77	1898	/N	/N	2010
+City Wings 	1QQ	/N	/N	/N	/N	/N	/N	2010
+Yute Commuter Service	K2	/N	/N	/N	/N	/N	/N	2010
+Tropic Ocean Airways	2LQ	/N	/N	/N	/N	/N	/N	2010
+Tatonduk 	5V	/N	/N	/N	/N	/N	/N	2010
+Rectrix Aviation	3DQ	/N	/N	/N	/N	/N	/N	2010
+New England Airlines  	NEW	71	359669	62	21157	/N	/N	2010
+Island Air Service	2O	66	696810	65	13698	/N	/N	2010
+Warbelow	4W	53	7295095	57	37682	/N	/N	2010
+Air Charter (Air Flamenco)	1YQ	/N	/N	/N	/N	/N	/N	2010
+Katmai Air	KAT	73	276256	72	6127	/N	/N	2010
+Air Excursions  	X4	65	793590	63	16222	/N	/N	2010
+Pacific Airways  	3F	67	653684	64	15699	/N	/N	2010
+Harris Air Services	HBQ	/N	/N	/N	/N	/N	/N	2010
+Smokey Bay Air  	2E	75	204258	71	8206	/N	/N	2010
+Friday Harbor Seaplanes	WST	77	138867	75	4798	/N	/N	2010
+Tanana Air Service	Z3	68	414669	69	10791	/N	/N	2010
+Grand Canyon Airlines 	YR	79	64935	79	903	/N	/N	2010
+Gem Air	22Q	/N	/N	/N	/N	/N	/N	2010
+Arctic Transportation	7S	/N	/N	/N	/N	/N	/N	2010
+Reeve Air Alaska 	RVQ	/N	/N	/N	/N	/N	/N	2010
+40-Mile Air	Q5	80	60542	80	409	/N	/N	2010
+Alaska Air Transit	2EQ	/N	/N	/N	/N	/N	/N	2010
+Ellis Air Taxi  	ELL	/N	/N	/N	/N	/N	/N	2010
+Maritime Helicopters	3AQ	/N	/N	/N	/N	/N	/N	2010
+Spernak Airways  	SNK	/N	/N	/N	/N	/N	/N	2010
+Delta Air Lines  	DL	1	1.67609E+11	1	113485115	1	35230370	2011
+United Airlines	UA	3	99589270466	5	50473565	3	21155218	2011
+American Airlines	AA	2	1.26445E+11	3	86042261	2	23957565	2011
+Southwest Airlines 	WN	4	83852181325	2	110586815	5	13654641	2011
+JetBlue Airways	B6	7	30696243655	7	26353014	7	4508899	2011
+Alaska Airlines  	AS	8	22561895135	10	17781491	8	4309602	2011
+Spirit Airlines	NK	16	8006918859	19	8296297	14	1071187	2011
+Frontier Airlines  	F9	11	10298067309	14	10593384	12	1661914	2011
+SkyWest Airlines  	OO	10	13618856582	9	23662594	11	2002830	2011
+Hawaiian Airlines  	HA	12	10133109077	17	8659205	13	1651121	2011
+Allegiant Air	G4	19	5302466536	22	5777518	17	745038	2011
+Republic Airline	YX	18	5665209603	16	10452933	20	624022	2011
+Mesa Airlines  	YV	21	3872866320	18	8357014	/N	/N	2011
+Envoy Air	MQ	14	9107431846	11	17347640	10	2200175	2011
+Endeavor 	9E	20	4449076525	15	10522797	21	507954	2011
+PSA Airlines  	OH	25	2526263142	24	5474520	/N	/N	2011
+Sun Country Airlines 	SY	29	1801171744	35	1340270	/N	/N	2011
+Compass Airlines	CP	24	2665691691	30	3607012	/N	/N	2011
+Horizon Air	QX	26	2120993470	20	6640375	/N	/N	2011
+ExpressJet Airlines  	EV	17	6089728769	13	14218126	18	715002	2011
+GoJet Airlines   	G7	31	1703665634	33	2492135	/N	/N	2011
+Air Wisconsin Airlines  	ZW	27	1941111790	21	5956429	19	660186	2011
+Trans States Airlines	AX	33	770385590	34	1928408	/N	/N	2011
+Piedmont Airlines	PT	/N	/N	/N	/N	/N	/N	2011
+Commutair 	C5	37	176643196	36	986997	/N	/N	2011
+Silver Airways	3M	43	62862875	42	296554	/N	/N	2011
+Era Aviation	7H	41	72098671	41	393599	/N	/N	2011
+Peninsula Airways	KS	40	92434025	44	213081	/N	/N	2011
+Contour Airlines	LF	/N	/N	/N	/N	/N	/N	2011
+Cape Air	9K	42	65796923	37	700774	/N	/N	2011
+Boutique Air	4B	/N	/N	/N	/N	/N	/N	2011
+Elite Airways	2HQ	/N	/N	/N	/N	/N	/N	2011
+Seaborne Virgin Islands	SEB	48	11899120	45	202972	/N	/N	2011
+Hageland Aviation Service	H6	45	19836972	46	186704	/N	/N	2011
+Sun Air Express 	1RQ	/N	/N	/N	/N	/N	/N	2011
+Empire Airlines	EM	/N	/N	/N	/N	/N	/N	2011
+Multi-Aero   	0MQ	55	4292336	59	27980	/N	/N	2011
+Key Lime Air	38Q	/N	/N	/N	/N	/N	/N	2011
+Wright Air Service	8V	54	4784156	60	27713	/N	/N	2011
+Grant Aviation	GV	49	9396043	48	112227	/N	/N	2011
+Mokulele Flight Services  	MW	/N	/N	/N	/N	/N	/N	2011
+Bering Air  	8E	52	6638376	55	63704	/N	/N	2011
+ADVANCED AIR LLC	AN	/N	/N	/N	/N	/N	/N	2011
+Tradewind Aviation	04Q	63	1201117	71	5841	/N	/N	2011
+Kalinin Aviation (Alaska Seaplanes)	J5	68	419940	70	6690	/N	/N	2011
+Watermakers Air	3BQ	/N	/N	/N	/N	/N	/N	2011
+Kenmore Air Harbor	KAH	53	6385176	52	79866	/N	/N	2011
+Charter Air Transport	1AQ	58	2907846	64	14159	/N	/N	2011
+Vieques Air Link  	VI	59	2793058	51	94692	/N	/N	2011
+Star Marianas Air 	1SQ	/N	/N	/N	/N	/N	/N	2011
+Air Sunshine 	AAT	69	371523	73	4266	/N	/N	2011
+Iliamna Air Taxi	V8	62	1763860	66	9454	/N	/N	2011
+Air Unlimited Charter Services	2TQ	/N	/N	/N	/N	/N	/N	2011
+Island Air Express	I4	/N	/N	/N	/N	/N	/N	2011
+Venture Travel   	K3	76	108578	77	1865	/N	/N	2011
+City Wings 	1QQ	/N	/N	/N	/N	/N	/N	2011
+Yute Commuter Service	K2	/N	/N	/N	/N	/N	/N	2011
+Tropic Ocean Airways	2LQ	/N	/N	/N	/N	/N	/N	2011
+Tatonduk 	5V	/N	/N	/N	/N	/N	/N	2011
+Rectrix Aviation	3DQ	/N	/N	/N	/N	/N	/N	2011
+New England Airlines  	NEW	71	324088	61	19064	/N	/N	2011
+Island Air Service	2O	66	693248	63	14377	/N	/N	2011
+Warbelow	4W	50	7755214	58	39872	/N	/N	2011
+Air Charter (Air Flamenco)	1YQ	/N	/N	/N	/N	/N	/N	2011
+Katmai Air	KAT	72	245760	68	7662	/N	/N	2011
+Air Excursions  	X4	64	950037	62	17095	/N	/N	2011
+Pacific Airways  	3F	67	551826	65	13799	/N	/N	2011
+Harris Air Services	HBQ	/N	/N	/N	/N	/N	/N	2011
+Smokey Bay Air  	2E	75	185226	69	6932	/N	/N	2011
+Friday Harbor Seaplanes	WST	77	97414	75	3273	/N	/N	2011
+Tanana Air Service	Z3	70	362337	67	9376	/N	/N	2011
+Grand Canyon Airlines 	YR	/N	/N	/N	/N	/N	/N	2011
+Gem Air	22Q	/N	/N	/N	/N	/N	/N	2011
+Arctic Transportation	7S	/N	/N	/N	/N	/N	/N	2011
+Reeve Air Alaska 	RVQ	/N	/N	/N	/N	/N	/N	2011
+40-Mile Air	Q5	79	79219	80	450	/N	/N	2011
+Alaska Air Transit	2EQ	/N	/N	/N	/N	/N	/N	2011
+Ellis Air Taxi  	ELL	/N	/N	/N	/N	/N	/N	2011
+Maritime Helicopters	3AQ	/N	/N	/N	/N	/N	/N	2011
+Spernak Airways  	SNK	/N	/N	/N	/N	/N	/N	2011
+Delta Air Lines  	DL	2	1.68757E+11	1	116445312	2	36813427	2012
+United Airlines	UA	1	1.79067E+11	3	92367487	1	37160163	2012
+American Airlines	AA	3	1.26349E+11	4	86335102	3	24825067	2012
+Southwest Airlines 	WN	4	85570154036	2	112234074	4	16410596	2012
+JetBlue Airways	B6	6	33560987731	7	28934369	6	4982014	2012
+Alaska Airlines  	AS	7	24392241032	11	18494624	7	4650001	2012
+Spirit Airlines	NK	15	9621154349	14	10176191	12	1318388	2012
+Frontier Airlines  	F9	13	9983573505	13	10312729	11	1433466	2012
+SkyWest Airlines  	OO	10	14192078136	8	26162937	9	1930149	2012
+Hawaiian Airlines  	HA	12	12207075268	16	9476251	8	1962570	2012
+Allegiant Air	G4	18	6255982985	19	6645979	15	869236	2012
+Republic Airline	YX	19	4902379349	15	9526896	19	630291	2012
+Mesa Airlines  	YV	21	3597966065	17	7617820	20	547055	2012
+Envoy Air	MQ	16	9618567675	10	18730932	13	1106968	2012
+Endeavor 	9E	17	6969349512	12	14634133	16	781096	2012
+PSA Airlines  	OH	29	1317249638	28	2786529	/N	/N	2012
+Sun Country Airlines 	SY	26	1932124953	31	1456901	/N	/N	2012
+Compass Airlines	CP	22	2960217136	25	4010963	/N	/N	2012
+Horizon Air	QX	25	2090623002	18	6780906	/N	/N	2012
+ExpressJet Airlines  	EV	9	15870817060	6	32376163	10	1593527	2012
+GoJet Airlines   	G7	23	2144987318	26	3490036	/N	/N	2012
+Air Wisconsin Airlines  	ZW	24	2092030902	21	6113805	18	668509	2012
+Trans States Airlines	AX	30	704295621	30	1716093	/N	/N	2012
+Piedmont Airlines	PT	/N	/N	/N	/N	/N	/N	2012
+Commutair 	C5	34	226499175	33	1215838	/N	/N	2012
+Silver Airways	3M	36	108485176	36	511884	/N	/N	2012
+Era Aviation	7H	38	75100235	37	402539	/N	/N	2012
+Peninsula Airways	KS	37	97823120	39	252597	/N	/N	2012
+Contour Airlines	LF	/N	/N	/N	/N	/N	/N	2012
+Cape Air	9K	39	72249627	34	746208	/N	/N	2012
+Boutique Air	4B	/N	/N	/N	/N	/N	/N	2012
+Elite Airways	2HQ	/N	/N	/N	/N	/N	/N	2012
+Seaborne Virgin Islands	SEB	48	8746270	41	165805	/N	/N	2012
+Hageland Aviation Service	H6	43	21306624	40	204855	/N	/N	2012
+Sun Air Express 	1RQ	72	239988	73	2072	/N	/N	2012
+Empire Airlines	EM	/N	/N	/N	/N	/N	/N	2012
+Multi-Aero   	0MQ	50	6456396	52	38840	/N	/N	2012
+Key Lime Air	38Q	/N	/N	/N	/N	/N	/N	2012
+Wright Air Service	8V	49	6480983	55	31691	/N	/N	2012
+Grant Aviation	GV	46	11547445	42	136833	/N	/N	2012
+Mokulele Flight Services  	MW	/N	/N	/N	/N	/N	/N	2012
+Bering Air  	8E	51	6178102	49	60268	/N	/N	2012
+ADVANCED AIR LLC	AN	/N	/N	/N	/N	/N	/N	2012
+Tradewind Aviation	04Q	59	1536078	64	7679	/N	/N	2012
+Kalinin Aviation (Alaska Seaplanes)	J5	67	429174	66	6859	/N	/N	2012
+Watermakers Air	3BQ	/N	/N	/N	/N	/N	/N	2012
+Kenmore Air Harbor	KAH	53	4440050	50	51377	/N	/N	2012
+Charter Air Transport	1AQ	44	14039605	48	67188	/N	/N	2012
+Vieques Air Link  	VI	57	2664228	44	94140	/N	/N	2012
+Star Marianas Air 	1SQ	/N	/N	/N	/N	/N	/N	2012
+Air Sunshine 	AAT	66	477845	69	5705	/N	/N	2012
+Iliamna Air Taxi	V8	58	1823368	63	9711	/N	/N	2012
+Air Unlimited Charter Services	2TQ	/N	/N	/N	/N	/N	/N	2012
+Island Air Express	I4	/N	/N	/N	/N	/N	/N	2012
+Venture Travel   	K3	76	125500	74	2072	/N	/N	2012
+City Wings 	1QQ	81	29250	77	650	/N	/N	2012
+Yute Commuter Service	K2	/N	/N	/N	/N	/N	/N	2012
+Tropic Ocean Airways	2LQ	/N	/N	/N	/N	/N	/N	2012
+Tatonduk 	5V	/N	/N	/N	/N	/N	/N	2012
+Rectrix Aviation	3DQ	/N	/N	/N	/N	/N	/N	2012
+New England Airlines  	NEW	69	349792	57	20526	/N	/N	2012
+Island Air Service	2O	63	612381	61	12277	/N	/N	2012
+Warbelow	4W	56	3194594	56	20775	/N	/N	2012
+Air Charter (Air Flamenco)	1YQ	/N	/N	/N	/N	/N	/N	2012
+Katmai Air	KAT	71	279693	71	4174	/N	/N	2012
+Air Excursions  	X4	62	930629	59	15758	/N	/N	2012
+Pacific Airways  	3F	64	506694	60	12816	/N	/N	2012
+Harris Air Services	HBQ	/N	/N	80	321	/N	/N	2012
+Smokey Bay Air  	2E	75	145535	67	6735	/N	/N	2012
+Friday Harbor Seaplanes	WST	77	88412	72	3002	/N	/N	2012
+Tanana Air Service	Z3	68	385280	62	10476	/N	/N	2012
+Grand Canyon Airlines 	YR	/N	/N	/N	/N	/N	/N	2012
+Gem Air	22Q	/N	/N	/N	/N	/N	/N	2012
+Arctic Transportation	7S	/N	/N	/N	/N	/N	/N	2012
+Reeve Air Alaska 	RVQ	/N	/N	/N	/N	/N	/N	2012
+40-Mile Air	Q5	79	72255	79	451	/N	/N	2012
+Alaska Air Transit	2EQ	/N	/N	/N	/N	/N	/N	2012
+Ellis Air Taxi  	ELL	80	40327	/N	/N	/N	/N	2012
+Maritime Helicopters	3AQ	/N	/N	/N	/N	/N	/N	2012
+Spernak Airways  	SNK	/N	/N	/N	/N	/N	/N	2012
+Delta Air Lines  	DL	2	1.7248E+11	1	120389174	2	37818194	2013
+United Airlines	UA	1	1.78218E+11	3	90112925	1	38287134	2013
+American Airlines	AA	3	1.28346E+11	4	86822555	3	25760245	2013
+Southwest Airlines 	WN	4	90178339389	2	115322785	4	17699434	2013
+JetBlue Airways	B6	6	35835170309	7	30427534	6	5441828	2013
+Alaska Airlines  	AS	7	26132455312	9	19699599	7	5150814	2013
+Spirit Airlines	NK	13	11999629070	13	12098255	10	1654385	2013
+Frontier Airlines  	F9	15	9150619318	14	10207534	13	1348551	2013
+SkyWest Airlines  	OO	9	14953786117	8	27138546	9	1827568	2013
+Hawaiian Airlines  	HA	12	13668088787	16	9925751	8	2155554	2013
+Allegiant Air	G4	17	7000034175	18	7101917	15	957824	2013
+Republic Airline	YX	19	4674032931	15	10031819	17	647180	2013
+Mesa Airlines  	YV	20	4019627992	17	8524142	19	431478	2013
+Envoy Air	MQ	16	9084038266	11	17748301	14	1138989	2013
+Endeavor 	9E	18	6010165909	12	13230942	18	585233	2013
+PSA Airlines  	OH	/N	/N	/N	/N	/N	/N	2013
+Sun Country Airlines 	SY	24	2288648817	29	1681079	20	409637	2013
+Compass Airlines	CP	22	2831520173	26	3783428	/N	/N	2013
+Horizon Air	QX	25	2164227742	19	7098501	/N	/N	2013
+ExpressJet Airlines  	EV	8	16852232059	6	32956702	11	1466341	2013
+GoJet Airlines   	G7	23	2527703385	25	4310464	/N	/N	2013
+Air Wisconsin Airlines  	ZW	26	2141702864	21	6069190	16	655627	2013
+Trans States Airlines	AX	29	916286980	28	2205109	/N	/N	2013
+Piedmont Airlines	PT	/N	/N	/N	/N	/N	/N	2013
+Commutair 	C5	31	267750956	30	1410790	/N	/N	2013
+Silver Airways	3M	32	156080264	31	759122	/N	/N	2013
+Era Aviation	7H	35	82585869	34	437450	/N	/N	2013
+Peninsula Airways	KS	34	95076699	38	213731	/N	/N	2013
+Contour Airlines	LF	/N	/N	/N	/N	/N	/N	2013
+Cape Air	9K	36	73478063	32	740023	/N	/N	2013
+Boutique Air	4B	/N	/N	/N	/N	/N	/N	2013
+Elite Airways	2HQ	/N	/N	/N	/N	/N	/N	2013
+Seaborne Virgin Islands	SEB	38	26600452	36	283963	/N	/N	2013
+Hageland Aviation Service	H6	40	23293534	37	219912	/N	/N	2013
+Sun Air Express 	1RQ	56	1176261	57	11269	/N	/N	2013
+Empire Airlines	EM	/N	/N	/N	/N	/N	/N	2013
+Multi-Aero   	0MQ	48	5722291	49	34192	/N	/N	2013
+Key Lime Air	38Q	/N	/N	/N	/N	/N	/N	2013
+Wright Air Service	8V	45	7205021	48	34248	/N	/N	2013
+Grant Aviation	GV	44	9624709	41	120286	/N	/N	2013
+Mokulele Flight Services  	MW	42	11722780	39	159402	/N	/N	2013
+Bering Air  	8E	46	5831958	46	55461	/N	/N	2013
+ADVANCED AIR LLC	AN	/N	/N	/N	/N	/N	/N	2013
+Tradewind Aviation	04Q	52	2440720	56	12256	/N	/N	2013
+Kalinin Aviation (Alaska Seaplanes)	J5	58	1098062	52	19001	/N	/N	2013
+Watermakers Air	3BQ	/N	/N	/N	/N	/N	/N	2013
+Kenmore Air Harbor	KAH	57	1114028	61	10419	/N	/N	2013
+Charter Air Transport	1AQ	/N	/N	/N	/N	/N	/N	2013
+Vieques Air Link  	VI	53	1802868	45	62354	/N	/N	2013
+Star Marianas Air 	1SQ	/N	/N	/N	/N	/N	/N	2013
+Air Sunshine 	AAT	59	524042	66	6318	/N	/N	2013
+Iliamna Air Taxi	V8	55	1692009	62	9095	/N	/N	2013
+Air Unlimited Charter Services	2TQ	/N	/N	/N	/N	/N	/N	2013
+Island Air Express	I4	/N	/N	/N	/N	/N	/N	2013
+Venture Travel   	K3	73	118418	71	2089	/N	/N	2013
+City Wings 	1QQ	62	486675	59	10815	/N	/N	2013
+Yute Commuter Service	K2	/N	/N	/N	/N	/N	/N	2013
+Tropic Ocean Airways	2LQ	/N	/N	/N	/N	/N	/N	2013
+Tatonduk 	5V	70	214088	74	1079	/N	/N	2013
+Rectrix Aviation	3DQ	/N	/N	/N	/N	/N	/N	2013
+New England Airlines  	NEW	65	353447	51	20788	/N	/N	2013
+Island Air Service	2O	60	518643	60	10710	/N	/N	2013
+Warbelow	4W	50	2827662	53	18997	/N	/N	2013
+Air Charter (Air Flamenco)	1YQ	/N	/N	/N	/N	/N	/N	2013
+Katmai Air	KAT	67	281694	63	8724	/N	/N	2013
+Air Excursions  	X4	66	315999	69	3915	/N	/N	2013
+Pacific Airways  	3F	61	516755	55	12853	/N	/N	2013
+Harris Air Services	HBQ	/N	/N	/N	/N	/N	/N	2013
+Smokey Bay Air  	2E	72	133480	65	6747	/N	/N	2013
+Friday Harbor Seaplanes	WST	78	45423	72	2002	/N	/N	2013
+Tanana Air Service	Z3	64	401733	58	11053	/N	/N	2013
+Grand Canyon Airlines 	YR	81	4838	79	82	/N	/N	2013
+Gem Air	22Q	/N	/N	/N	/N	/N	/N	2013
+Arctic Transportation	7S	75	68184	75	878	/N	/N	2013
+Reeve Air Alaska 	RVQ	/N	/N	/N	/N	/N	/N	2013
+40-Mile Air	Q5	76	66978	76	437	/N	/N	2013
+Alaska Air Transit	2EQ	/N	/N	/N	/N	/N	/N	2013
+Ellis Air Taxi  	ELL	77	48683	77	367	/N	/N	2013
+Maritime Helicopters	3AQ	/N	/N	/N	/N	/N	/N	2013
+Spernak Airways  	SNK	80	5368	80	69	/N	/N	2013
+Delta Air Lines  	DL	1	1.80746E+11	1	129210446	1	40426454	2014
+United Airlines	UA	2	1.78679E+11	3	90373178	2	38900519	2014
+American Airlines	AA	3	1.29274E+11	4	87830493	3	27140391	2014
+Southwest Airlines 	WN	4	1.01169E+11	2	127194669	4	18605116	2014
+JetBlue Airways	B6	6	37813645878	6	32056135	6	5816877	2014
+Alaska Airlines  	AS	7	27739056885	9	20935225	7	5363353	2014
+Spirit Airlines	NK	10	14159223553	11	13978786	9	1931581	2014
+Frontier Airlines  	F9	12	10382692719	14	11662770	11	1574869	2014
+SkyWest Airlines  	OO	9	15508238442	8	27786380	10	1888693	2014
+Hawaiian Airlines  	HA	11	13866969815	15	10070978	8	2311201	2014
+Allegiant Air	G4	14	7749484088	18	8050730	14	1099667	2014
+Republic Airline	YX	17	6201366196	12	13046868	16	781961	2014
+Mesa Airlines  	YV	19	4617480924	16	9046491	19	458413	2014
+Envoy Air	MQ	15	7535560400	10	16110493	15	1039737	2014
+Endeavor 	9E	18	6014913742	13	12056713	18	533476	2014
+PSA Airlines  	OH	/N	/N	/N	/N	/N	/N	2014
+Sun Country Airlines 	SY	23	2543115684	29	1838088	20	450319	2014
+Compass Airlines	CP	21	2931231095	25	4045915	/N	/N	2014
+Horizon Air	QX	25	2208106760	19	7455237	/N	/N	2014
+ExpressJet Airlines  	EV	8	15915731019	7	30950188	13	1347277	2014
+GoJet Airlines   	G7	22	2566146321	24	4291836	/N	/N	2014
+Air Wisconsin Airlines  	ZW	24	2242892765	21	6146733	17	644580	2014
+Trans States Airlines	AX	28	927537599	28	2391953	/N	/N	2014
+Piedmont Airlines	PT	29	504429874	27	3014470	/N	/N	2014
+Commutair 	C5	30	239660708	30	1148001	/N	/N	2014
+Silver Airways	3M	31	140512752	32	671302	/N	/N	2014
+Era Aviation	7H	34	76921931	34	403807	/N	/N	2014
+Peninsula Airways	KS	32	95678932	38	214556	/N	/N	2014
+Contour Airlines	LF	/N	/N	/N	/N	/N	/N	2014
+Cape Air	9K	33	79161687	31	757230	/N	/N	2014
+Boutique Air	4B	57	1538992	73	4468	/N	/N	2014
+Elite Airways	2HQ	/N	/N	/N	/N	/N	/N	2014
+Seaborne Virgin Islands	SEB	37	41805242	35	334030	/N	/N	2014
+Hageland Aviation Service	H6	39	25030653	37	225999	/N	/N	2014
+Sun Air Express 	1RQ	60	1187174	63	11798	/N	/N	2014
+Empire Airlines	EM	46	7522287	41	106361	/N	/N	2014
+Multi-Aero   	0MQ	45	7800553	51	41170	/N	/N	2014
+Key Lime Air	38Q	/N	/N	/N	/N	/N	/N	2014
+Wright Air Service	8V	44	8598810	50	41284	/N	/N	2014
+Grant Aviation	GV	43	10358686	40	125643	/N	/N	2014
+Mokulele Flight Services  	MW	40	17582384	36	248092	/N	/N	2014
+Bering Air  	8E	47	6798314	47	65102	/N	/N	2014
+ADVANCED AIR LLC	AN	/N	/N	/N	/N	/N	/N	2014
+Tradewind Aviation	04Q	50	3166316	59	15317	/N	/N	2014
+Kalinin Aviation (Alaska Seaplanes)	J5	55	1634809	54	27571	/N	/N	2014
+Watermakers Air	3BQ	/N	/N	/N	/N	/N	/N	2014
+Kenmore Air Harbor	KAH	48	6118421	44	87377	/N	/N	2014
+Charter Air Transport	1AQ	49	5210750	53	29046	/N	/N	2014
+Vieques Air Link  	VI	54	2405041	46	79587	/N	/N	2014
+Star Marianas Air 	1SQ	66	462755	55	26066	/N	/N	2014
+Air Sunshine 	AAT	63	543242	71	6146	/N	/N	2014
+Iliamna Air Taxi	V8	58	1512772	69	8043	/N	/N	2014
+Air Unlimited Charter Services	2TQ	/N	/N	/N	/N	/N	/N	2014
+Island Air Express	I4	/N	/N	/N	/N	/N	/N	2014
+Venture Travel   	K3	73	280162	62	13245	/N	/N	2014
+City Wings 	1QQ	61	946755	57	21039	/N	/N	2014
+Yute Commuter Service	K2	/N	/N	/N	/N	/N	/N	2014
+Tropic Ocean Airways	2LQ	/N	/N	/N	/N	/N	/N	2014
+Tatonduk 	5V	75	237944	79	1255	/N	/N	2014
+Rectrix Aviation	3DQ	/N	/N	/N	/N	/N	/N	2014
+New England Airlines  	NEW	68	413440	56	24316	/N	/N	2014
+Island Air Service	2O	65	530897	64	10628	/N	/N	2014
+Warbelow	4W	53	2608531	58	17332	/N	/N	2014
+Air Charter (Air Flamenco)	1YQ	56	1594676	49	55468	/N	/N	2014
+Katmai Air	KAT	71	322752	66	9850	/N	/N	2014
+Air Excursions  	X4	67	439156	74	3884	/N	/N	2014
+Pacific Airways  	3F	64	540043	61	13725	/N	/N	2014
+Harris Air Services	HBQ	/N	/N	/N	/N	/N	/N	2014
+Smokey Bay Air  	2E	77	177800	68	8710	/N	/N	2014
+Friday Harbor Seaplanes	WST	78	122825	76	2916	/N	/N	2014
+Tanana Air Service	Z3	74	265048	70	7767	/N	/N	2014
+Grand Canyon Airlines 	YR	76	191186	77	2588	/N	/N	2014
+Gem Air	22Q	/N	/N	/N	/N	/N	/N	2014
+Arctic Transportation	7S	/N	/N	80	651	/N	/N	2014
+Reeve Air Alaska 	RVQ	/N	/N	/N	/N	/N	/N	2014
+40-Mile Air	Q5	80	76637	/N	/N	/N	/N	2014
+Alaska Air Transit	2EQ	/N	/N	/N	/N	/N	/N	2014
+Ellis Air Taxi  	ELL	/N	/N	/N	/N	/N	/N	2014
+Maritime Helicopters	3AQ	/N	/N	/N	/N	/N	/N	2014
+Spernak Airways  	SNK	/N	/N	/N	/N	/N	/N	2014
+Delta Air Lines  	DL	2	1.87987E+11	3	138591267	2	40815767	2015
+United Airlines	UA	3	1.83292E+11	4	95326558	3	37864132	2015
+American Airlines	AA	1	1.99343E+11	1	146549897	1	41084426	2015
+Southwest Airlines 	WN	4	1.17503E+11	2	144574739	4	19820110	2015
+JetBlue Airways	B6	5	41714368825	5	35074162	5	6416127	2015
+Alaska Airlines  	AS	6	30297232283	8	22827536	6	5594087	2015
+Spirit Airlines	NK	7	17995647224	9	17629033	8	2141463	2015
+Frontier Airlines  	F9	10	12729013711	11	12735511	10	1604012	2015
+SkyWest Airlines  	OO	8	16975468081	6	30078314	9	1931688	2015
+Hawaiian Airlines  	HA	9	14400456022	14	10453605	7	2313157	2015
+Allegiant Air	G4	13	8874010009	16	9414584	12	1221507	2015
+Republic Airline	YX	14	6678295610	10	13908021	15	835176	2015
+Mesa Airlines  	YV	15	6412425337	13	11416204	17	530711	2015
+Envoy Air	MQ	17	5388867779	12	12287670	14	853984	2015
+Endeavor 	9E	16	5531612052	15	10279270	21	426513	2015
+PSA Airlines  	OH	19	3516753213	17	9138696	20	497525	2015
+Sun Country Airlines 	SY	21	3042266141	26	2209788	18	526338	2015
+Compass Airlines	CP	20	3510823087	22	4954755	/N	/N	2015
+Horizon Air	QX	23	2306156056	18	7909194	/N	/N	2015
+ExpressJet Airlines  	EV	11	12685491538	7	26002919	13	987246	2015
+GoJet Airlines   	G7	22	2446560695	23	4378275	/N	/N	2015
+Air Wisconsin Airlines  	ZW	24	2287468755	21	6312190	16	536037	2015
+Trans States Airlines	AX	25	1319766526	24	2977297	/N	/N	2015
+Piedmont Airlines	PT	26	486066534	25	2904775	/N	/N	2015
+Commutair 	C5	27	218851755	27	1094091	/N	/N	2015
+Silver Airways	3M	28	157550924	28	705411	/N	/N	2015
+Era Aviation	7H	30	72623782	30	398532	/N	/N	2015
+Peninsula Airways	KS	29	100389326	35	220124	/N	/N	2015
+Contour Airlines	LF	/N	/N	/N	/N	/N	/N	2015
+Cape Air	9K	31	71207938	29	683935	/N	/N	2015
+Boutique Air	4B	43	8601332	52	32657	/N	/N	2015
+Elite Airways	2HQ	/N	/N	/N	/N	/N	/N	2015
+Seaborne Virgin Islands	SEB	33	30334387	33	238028	/N	/N	2015
+Hageland Aviation Service	H6	35	24657205	34	233815	/N	/N	2015
+Sun Air Express 	1RQ	47	2614584	55	23473	/N	/N	2015
+Empire Airlines	EM	39	14051380	36	186135	/N	/N	2015
+Multi-Aero   	0MQ	38	15834748	42	70673	/N	/N	2015
+Key Lime Air	38Q	/N	/N	/N	/N	/N	/N	2015
+Wright Air Service	8V	44	8318880	50	38919	/N	/N	2015
+Grant Aviation	GV	42	8817465	37	114845	/N	/N	2015
+Mokulele Flight Services  	MW	36	17571526	32	243064	/N	/N	2015
+Bering Air  	8E	45	6509872	43	63010	/N	/N	2015
+ADVANCED AIR LLC	AN	/N	/N	/N	/N	/N	/N	2015
+Tradewind Aviation	04Q	46	4533577	57	20443	/N	/N	2015
+Kalinin Aviation (Alaska Seaplanes)	J5	49	2578357	51	38247	/N	/N	2015
+Watermakers Air	3BQ	/N	/N	/N	/N	/N	/N	2015
+Kenmore Air Harbor	KAH	52	2407003	44	61587	/N	/N	2015
+Charter Air Transport	1AQ	41	10381291	49	41394	/N	/N	2015
+Vieques Air Link  	VI	48	2598496	40	87887	/N	/N	2015
+Star Marianas Air 	1SQ	56	1090587	46	51798	/N	/N	2015
+Air Sunshine 	AAT	60	724899	67	7689	/N	/N	2015
+Iliamna Air Taxi	V8	55	1654160	66	8747	/N	/N	2015
+Air Unlimited Charter Services	2TQ	/N	/N	/N	/N	/N	/N	2015
+Island Air Express	I4	58	927920	59	16570	/N	/N	2015
+Venture Travel   	K3	66	357887	53	24666	/N	/N	2015
+City Wings 	1QQ	57	1078110	54	23958	/N	/N	2015
+Yute Commuter Service	K2	/N	/N	/N	/N	/N	/N	2015
+Tropic Ocean Airways	2LQ	/N	/N	/N	/N	/N	/N	2015
+Tatonduk 	5V	69	275130	71	1787	/N	/N	2015
+Rectrix Aviation	3DQ	/N	/N	/N	/N	/N	/N	2015
+New England Airlines  	NEW	65	396950	56	23350	/N	/N	2015
+Island Air Service	2O	62	556783	64	10097	/N	/N	2015
+Warbelow	4W	51	2431548	60	16088	/N	/N	2015
+Air Charter (Air Flamenco)	1YQ	54	1665536	45	59250	/N	/N	2015
+Katmai Air	KAT	67	326976	62	10218	/N	/N	2015
+Air Excursions  	X4	72	169569	69	4119	/N	/N	2015
+Pacific Airways  	3F	61	605562	61	15238	/N	/N	2015
+Harris Air Services	HBQ	/N	/N	/N	/N	/N	/N	2015
+Smokey Bay Air  	2E	71	182553	65	9307	/N	/N	2015
+Friday Harbor Seaplanes	WST	74	85676	72	1724	/N	/N	2015
+Tanana Air Service	Z3	/N	/N	/N	/N	/N	/N	2015
+Grand Canyon Airlines 	YR	63	445103	58	17160	/N	/N	2015
+Gem Air	22Q	/N	/N	/N	/N	/N	/N	2015
+Arctic Transportation	7S	78	25153	76	473	/N	/N	2015
+Reeve Air Alaska 	RVQ	76	59446	77	457	/N	/N	2015
+40-Mile Air	Q5	75	66964	75	474	/N	/N	2015
+Alaska Air Transit	2EQ	/N	/N	/N	/N	/N	/N	2015
+Ellis Air Taxi  	ELL	79	14530	80	114	/N	/N	2015
+Maritime Helicopters	3AQ	/N	/N	/N	/N	/N	/N	2015
+Spernak Airways  	SNK	/N	/N	/N	/N	/N	/N	2015
+Delta Air Lines  	DL	2	1.9145E+11	3	143075984	2	39849613	2016
+United Airlines	UA	3	1.85848E+11	4	100118990	3	36555880	2016
+American Airlines	AA	1	1.9887E+11	2	144191367	1	40421537	2016
+Southwest Airlines 	WN	4	1.24801E+11	1	151740357	4	20425210	2016
+JetBlue Airways	B6	5	45629154595	5	38241080	5	6632433	2016
+Alaska Airlines  	AS	6	32804165363	7	24370590	6	5827853	2016
+Spirit Airlines	NK	7	21582548632	9	20997732	8	2321957	2016
+Frontier Airlines  	F9	8	15875680898	10	14773331	10	1713577	2016
+SkyWest Airlines  	OO	9	17548258663	6	31204948	9	2074955	2016
+Hawaiian Airlines  	HA	10	15466013766	17	10823749	7	2441525	2016
+Allegiant Air	G4	12	10191928085	15	11074799	12	1317315	2016
+Republic Airline	YX	13	7059569978	14	11528069	15	807623	2016
+Mesa Airlines  	YV	15	7538494671	11	13037076	16	618381	2016
+Envoy Air	MQ	16	5412074690	12	11763819	13	1057965	2016
+Endeavor 	9E	17	5878711774	16	10960828	19	491126	2016
+PSA Airlines  	OH	18	4574354058	13	11618123	17	580497	2016
+Sun Country Airlines 	SY	20	3239749192	26	2153513	18	518933	2016
+Compass Airlines	CP	19	4353977459	20	6432138	/N	/N	2016
+Horizon Air	QX	22	2266659085	19	7755403	/N	/N	2016
+ExpressJet Airlines  	EV	14	10451791658	8	22184613	14	1044828	2016
+GoJet Airlines   	G7	21	2678858895	22	4798444	/N	/N	2016
+Air Wisconsin Airlines  	ZW	24	2060390338	21	5387095	20	443019	2016
+Trans States Airlines	AX	23	1572790419	24	3435434	/N	/N	2016
+Piedmont Airlines	PT	25	517015726	25	2714814	/N	/N	2016
+Commutair 	C5	26	292358961	27	1340712	/N	/N	2016
+Silver Airways	3M	27	124871644	29	588907	/N	/N	2016
+Era Aviation	7H	29	76143739	31	411172	/N	/N	2016
+Peninsula Airways	KS	28	114752969	32	268845	/N	/N	2016
+Contour Airlines	LF	53	2088522	65	12003	/N	/N	2016
+Cape Air	9K	30	69888333	28	673307	/N	/N	2016
+Boutique Air	4B	33	27691254	37	118347	/N	/N	2016
+Elite Airways	2HQ	32	29637780	56	27821	/N	/N	2016
+Seaborne Virgin Islands	SEB	34	34590596	33	256112	/N	/N	2016
+Hageland Aviation Service	H6	35	24231562	35	228301	/N	/N	2016
+Sun Air Express 	1RQ	43	4026895	53	31768	/N	/N	2016
+Empire Airlines	EM	42	16546038	36	219766	/N	/N	2016
+Multi-Aero   	0MQ	41	19183515	39	80798	/N	/N	2016
+Key Lime Air	38Q	45	/N	/N	/N	/N	/N	2016
+Wright Air Service	8V	46	8683335	51	39593	/N	/N	2016
+Grant Aviation	GV	47	8023131	38	102073	/N	/N	2016
+Mokulele Flight Services  	MW	40	18426772	34	249828	/N	/N	2016
+Bering Air  	8E	48	6873313	43	64154	/N	/N	2016
+ADVANCED AIR LLC	AN	/N	/N	/N	/N	/N	/N	2016
+Tradewind Aviation	04Q	49	5805167	54	31297	/N	/N	2016
+Kalinin Aviation (Alaska Seaplanes)	J5	51	3717534	45	57138	/N	/N	2016
+Watermakers Air	3BQ	/N	/N	/N	/N	/N	/N	2016
+Kenmore Air Harbor	KAH	52	3033920	47	56379	/N	/N	2016
+Charter Air Transport	1AQ	37	14160764	50	42129	/N	/N	2016
+Vieques Air Link  	VI	55	2298833	40	80133	/N	/N	2016
+Star Marianas Air 	1SQ	56	1712540	42	72388	/N	/N	2016
+Air Sunshine 	AAT	62	515161	70	5125	/N	/N	2016
+Iliamna Air Taxi	V8	58	1583590	69	8404	/N	/N	2016
+Air Unlimited Charter Services	2TQ	60	167182	76	678	/N	/N	2016
+Island Air Express	I4	61	1062096	58	18736	/N	/N	2016
+Venture Travel   	K3	65	627077	48	44494	/N	/N	2016
+City Wings 	1QQ	63	1175580	57	26124	/N	/N	2016
+Yute Commuter Service	K2	/N	/N	/N	/N	/N	/N	2016
+Tropic Ocean Airways	2LQ	/N	/N	/N	/N	/N	/N	2016
+Tatonduk 	5V	73	319177	74	2216	/N	/N	2016
+Rectrix Aviation	3DQ	/N	/N	/N	/N	/N	/N	2016
+New England Airlines  	NEW	66	584596	52	34388	/N	/N	2016
+Island Air Service	2O	64	572112	67	10907	/N	/N	2016
+Warbelow	4W	54	2614230	60	17180	/N	/N	2016
+Air Charter (Air Flamenco)	1YQ	59	1681396	44	60146	/N	/N	2016
+Katmai Air	KAT	72	373632	66	11676	/N	/N	2016
+Air Excursions  	X4	70	190734	71	4651	/N	/N	2016
+Pacific Airways  	3F	67	595872	63	14728	/N	/N	2016
+Harris Air Services	HBQ	68	/N	/N	/N	/N	/N	2016
+Smokey Bay Air  	2E	69	370526	59	18443	/N	/N	2016
+Friday Harbor Seaplanes	WST	75	142149	73	2546	/N	/N	2016
+Tanana Air Service	Z3	77	/N	/N	/N	/N	/N	2016
+Grand Canyon Airlines 	YR	76	244546	72	3357	/N	/N	2016
+Gem Air	22Q	78	46768	/N	/N	/N	/N	2016
+Arctic Transportation	7S	/N	/N	77	554	/N	/N	2016
+Reeve Air Alaska 	RVQ	/N	50530	/N	/N	/N	/N	2016
+40-Mile Air	Q5	79	50939	78	532	/N	/N	2016
+Alaska Air Transit	2EQ	80	/N	/N	/N	/N	/N	2016
+Ellis Air Taxi  	ELL	/N	/N	79	363	/N	/N	2016
+Maritime Helicopters	3AQ	/N	/N	/N	/N	/N	/N	2016
+Spernak Airways  	SNK	/N	/N	/N	/N	/N	/N	2016
+Delta Air Lines  	DL	2	1.96603E+11	2	145646743	2	41475860	2017
+United Airlines	UA	3	1.93166E+11	4	107242684	3	37736311	2017
+American Airlines	AA	1	2.01312E+11	3	144863506	1	42195316	2017
+Southwest Airlines 	WN	4	1.29045E+11	1	157677218	4	21170660	2017
+JetBlue Airways	B6	5	47247258707	5	40015303	5	7015326	2017
+Alaska Airlines  	AS	6	35255847804	7	26067258	6	6287852	2017
+Spirit Airlines	NK	7	24603557689	8	23812748	8	2647666	2017
+Frontier Airlines  	F9	8	18909375570	10	16799968	10	1914740	2017
+SkyWest Airlines  	OO	9	18830092229	6	35776081	9	2410032	2017
+Hawaiian Airlines  	HA	10	16291460362	17	11293430	7	2687919	2017
+Allegiant Air	G4	12	10986434488	14	12237583	12	1443616	2017
+Republic Airline	YX	13	10044090290	9	16931622	13	1195455	2017
+Mesa Airlines  	YV	15	7534935992	12	13430337	16	650443	2017
+Envoy Air	MQ	16	5846411969	15	11786070	14	1156780	2017
+Endeavor 	9E	17	5815923158	16	11783008	19	519329	2017
+PSA Airlines  	OH	18	4931410143	13	12629465	17	619116	2017
+Sun Country Airlines 	SY	20	3425352398	25	2441125	18	589034	2017
+Compass Airlines	CP	19	3982195550	20	6061021	/N	/N	2017
+Horizon Air	QX	22	2338919470	19	7010923	20	434615	2017
+ExpressJet Airlines  	EV	14	7611040556	11	15501904	15	790942	2017
+GoJet Airlines   	G7	21	2716702713	21	5306137	/N	/N	2017
+Air Wisconsin Airlines  	ZW	24	1259573067	22	3463532	21	247712	2017
+Trans States Airlines	AX	23	1517614107	23	3459809	/N	/N	2017
+Piedmont Airlines	PT	25	748047244	24	3053625	/N	/N	2017
+Commutair 	C5	26	481979565	26	1594513	/N	/N	2017
+Silver Airways	3M	27	136599667	27	627252	/N	/N	2017
+Era Aviation	7H	29	84634616	30	433894	/N	/N	2017
+Peninsula Airways	KS	28	117336441	31	285043	/N	/N	2017
+Contour Airlines	LF	53	3157072	59	18159	/N	/N	2017
+Cape Air	9K	30	67265589	28	618912	/N	/N	2017
+Boutique Air	4B	33	42500643	36	182403	/N	/N	2017
+Elite Airways	2HQ	32	45587659	49	52972	/N	/N	2017
+Seaborne Virgin Islands	SEB	34	29931657	32	261351	/N	/N	2017
+Hageland Aviation Service	H6	35	23394685	34	237936	/N	/N	2017
+Sun Air Express 	1RQ	43	12477721	40	77613	/N	/N	2017
+Empire Airlines	EM	42	14091485	35	184846	/N	/N	2017
+Multi-Aero   	0MQ	41	17772059	38	83617	/N	/N	2017
+Key Lime Air	38Q	45	10690909	55	29534	/N	/N	2017
+Wright Air Service	8V	46	8934415	52	41283	/N	/N	2017
+Grant Aviation	GV	47	7692451	37	100230	/N	/N	2017
+Mokulele Flight Services  	MW	40	18320492	33	245907	/N	/N	2017
+Bering Air  	8E	48	7228844	42	66531	/N	/N	2017
+ADVANCED AIR LLC	AN	/N	/N	/N	/N	/N	/N	2017
+Tradewind Aviation	04Q	49	5854522	56	28461	/N	/N	2017
+Kalinin Aviation (Alaska Seaplanes)	J5	51	4052927	47	59567	/N	/N	2017
+Watermakers Air	3BQ	/N	/N	/N	/N	/N	/N	2017
+Kenmore Air Harbor	KAH	52	3233820	45	61119	/N	/N	2017
+Charter Air Transport	1AQ	37	20489850	48	55828	/N	/N	2017
+Vieques Air Link  	VI	55	1828400	44	63569	/N	/N	2017
+Star Marianas Air 	1SQ	56	1763702	39	78797	/N	/N	2017
+Air Sunshine 	AAT	62	940729	66	8798	/N	/N	2017
+Iliamna Air Taxi	V8	58	1595914	69	8350	/N	/N	2017
+Air Unlimited Charter Services	2TQ	60	1342573	71	5368	/N	/N	2017
+Island Air Express	I4	61	1151024	57	20546	/N	/N	2017
+Venture Travel   	K3	65	631673	51	43835	/N	/N	2017
+City Wings 	1QQ	63	752940	61	16732	/N	/N	2017
+Yute Commuter Service	K2	/N	/N	78	1025	/N	/N	2017
+Tropic Ocean Airways	2LQ	/N	/N	/N	/N	/N	/N	2017
+Tatonduk 	5V	73	282097	76	1945	/N	/N	2017
+Rectrix Aviation	3DQ	/N	/N	/N	/N	/N	/N	2017
+New England Airlines  	NEW	66	552279	54	32487	/N	/N	2017
+Island Air Service	2O	64	709198	62	14957	/N	/N	2017
+Warbelow	4W	54	2592980	60	17196	/N	/N	2017
+Air Charter (Air Flamenco)	1YQ	59	1398935	50	49344	/N	/N	2017
+Katmai Air	KAT	72	314112	65	9816	/N	/N	2017
+Air Excursions  	X4	70	358763	67	8723	/N	/N	2017
+Pacific Airways  	3F	67	508290	63	12517	/N	/N	2017
+Harris Air Services	HBQ	68	490878	70	5858	/N	/N	2017
+Smokey Bay Air  	2E	69	402317	58	19531	/N	/N	2017
+Friday Harbor Seaplanes	WST	75	193680	74	2421	/N	/N	2017
+Tanana Air Service	Z3	77	95161	77	1684	/N	/N	2017
+Grand Canyon Airlines 	YR	76	188745	75	2420	/N	/N	2017
+Gem Air	22Q	78	51508	/N	/N	/N	/N	2017
+Arctic Transportation	7S	/N	/N	79	620	/N	/N	2017
+Reeve Air Alaska 	RVQ	/N	/N	/N	/N	/N	/N	2017
+40-Mile Air	Q5	79	47512	80	501	/N	/N	2017
+Alaska Air Transit	2EQ	80	46116	/N	/N	/N	/N	2017
+Ellis Air Taxi  	ELL	/N	/N	/N	/N	/N	/N	2017
+Maritime Helicopters	3AQ	/N	/N	/N	/N	/N	/N	2017
+Spernak Airways  	SNK	/N	/N	/N	/N	/N	/N	2017
+Delta Air Lines  	DL	2	2.05091E+11	2	152028678	1	44537997	2018
+United Airlines	UA	3	2.04788E+11	4	113197102	3	41303230	2018
+American Airlines	AA	1	2.0542E+11	3	148180840	2	44529814	2018
+Southwest Airlines 	WN	4	1.33326E+11	1	163605692	4	21965049	2018
+JetBlue Airways	B6	5	50817439963	5	42235977	6	7658451	2018
+Alaska Airlines  	AS	6	46724226271	7	33502928	5	8259807	2018
+Spirit Airlines	NK	7	30591966457	8	28683265	7	3323035	2018
+Frontier Airlines  	F9	8	20875202333	9	19432848	10	2155858	2018
+SkyWest Airlines  	OO	9	20769989349	6	38955705	9	2653555	2018
+Hawaiian Airlines  	HA	10	17182825377	16	11623825	8	2827216	2018
+Allegiant Air	G4	11	12224404873	13	13703343	11	1596808	2018
+Republic Airline	YX	12	11158178211	10	18639605	12	1284615	2018
+Mesa Airlines  	YV	13	8251766479	11	14293179	14	695068	2018
+Envoy Air	MQ	15	6499261881	14	13644617	13	1227198	2018
+Endeavor 	9E	14	6851079714	12	13761095	17	595869	2018
+PSA Airlines  	OH	16	5292012095	15	13613918	15	670908	2018
+Sun Country Airlines 	SY	18	3645742575	24	2485287	16	616442	2018
+Compass Airlines	CP	19	3607578002	19	6438740	21	241211	2018
+Horizon Air	QX	22	2591830903	18	7210509	19	510333	2018
+ExpressJet Airlines  	EV	17	4542822192	17	9260676	18	564201	2018
+GoJet Airlines   	G7	21	2799588299	20	5246737	20	257057	2018
+Air Wisconsin Airlines  	ZW	24	1398557977	21	3852854	/N	/N	2018
+Trans States Airlines	AX	23	1583598404	23	3451208	/N	/N	2018
+Piedmont Airlines	PT	25	1026254478	22	3782306	/N	/N	2018
+Commutair 	C5	26	657841266	26	1875497	/N	/N	2018
+Silver Airways	3M	27	154069194	27	685699	/N	/N	2018
+Era Aviation	7H	29	72742063	29	396905	/N	/N	2018
+Peninsula Airways	KS	28	85605210	35	172163	/N	/N	2018
+Contour Airlines	LF	49	4490102	56	17437	/N	/N	2018
+Cape Air	9K	30	59822023	28	540455	/N	/N	2018
+Boutique Air	4B	31	40837018	34	172459	/N	/N	2018
+Elite Airways	2HQ	32	39191994	48	41943	/N	/N	2018
+Seaborne Virgin Islands	SEB	35	25696252	30	226699	/N	/N	2018
+Hageland Aviation Service	H6	37	21905635	31	223969	/N	/N	2018
+Sun Air Express 	1RQ	41	16069808	38	95436	/N	/N	2018
+Empire Airlines	EM	42	13283901	33	190256	/N	/N	2018
+Multi-Aero   	0MQ	38	18193442	40	78762	/N	/N	2018
+Key Lime Air	38Q	43	12603779	49	41633	/N	/N	2018
+Wright Air Service	8V	44	10154787	47	48473	/N	/N	2018
+Grant Aviation	GV	45	8659576	37	108898	/N	/N	2018
+Mokulele Flight Services  	MW	40	16313025	32	217079	/N	/N	2018
+Bering Air  	8E	46	7768276	41	71478	/N	/N	2018
+ADVANCED AIR LLC	AN	52	2042223	67	7541	/N	/N	2018
+Tradewind Aviation	04Q	47	6772951	50	34560	/N	/N	2018
+Kalinin Aviation (Alaska Seaplanes)	J5	48	4648392	44	64833	/N	/N	2018
+Watermakers Air	3BQ	77	208484	78	1290	/N	/N	2018
+Kenmore Air Harbor	KAH	50	3741675	43	65819	/N	/N	2018
+Charter Air Transport	1AQ	36	22938730	46	49646	/N	/N	2018
+Vieques Air Link  	VI	53	1978573	42	69842	/N	/N	2018
+Star Marianas Air 	1SQ	56	1785515	39	87228	/N	/N	2018
+Air Sunshine 	AAT	58	1633798	61	12549	/N	/N	2018
+Iliamna Air Taxi	V8	55	1816086	63	9680	/N	/N	2018
+Air Unlimited Charter Services	2TQ	57	1701966	70	6619	/N	/N	2018
+Island Air Express	I4	54	1850435	53	25121	/N	/N	2018
+Venture Travel   	K3	64	498560	52	30937	/N	/N	2018
+City Wings 	1QQ	60	989100	54	21980	/N	/N	2018
+Yute Commuter Service	K2	61	722172	55	20828	/N	/N	2018
+Tropic Ocean Airways	2LQ	72	317105	73	4570	/N	/N	2018
+Tatonduk 	5V	66	470728	77	2105	/N	/N	2018
+Rectrix Aviation	3DQ	71	329655	64	9535	/N	/N	2018
+New England Airlines  	NEW	63	584477	51	34381	/N	/N	2018
+Island Air Service	2O	62	633705	59	13388	/N	/N	2018
+Warbelow	4W	59	1062218	66	8227	/N	/N	2018
+Air Charter (Air Flamenco)	1YQ	75	253446	72	4782	/N	/N	2018
+Katmai Air	KAT	68	426272	60	13321	/N	/N	2018
+Air Excursions  	X4	69	369316	65	8568	/N	/N	2018
+Pacific Airways  	3F	67	467094	62	11549	/N	/N	2018
+Harris Air Services	HBQ	65	474826	69	7285	/N	/N	2018
+Smokey Bay Air  	2E	70	356322	57	16534	/N	/N	2018
+Friday Harbor Seaplanes	WST	74	261520	75	3269	/N	/N	2018
+Tanana Air Service	Z3	73	274241	71	5285	/N	/N	2018
+Grand Canyon Airlines 	YR	79	102350	79	1075	/N	/N	2018
+Gem Air	22Q	80	69678	/N	/N	/N	/N	2018
+Arctic Transportation	7S	/N	/N	80	867	/N	/N	2018
+Reeve Air Alaska 	RVQ	/N	/N	/N	/N	/N	/N	2018
+40-Mile Air	Q5	/N	/N	/N	/N	/N	/N	2018
+Alaska Air Transit	2EQ	/N	/N	/N	/N	/N	/N	2018
+Ellis Air Taxi  	ELL	/N	/N	/N	/N	/N	/N	2018
+Maritime Helicopters	3AQ	76	238459	76	2247	/N	/N	2018
+Spernak Airways  	SNK	/N	/N	/N	/N	/N	/N	2018
+Delta Air Lines  	DL	1	2.17589E+11	2	162493994	1	47126335	2019
+United Airlines	UA	2	2.13119E+11	4	116255636	3	43258541	2019
+American Airlines	AA	3	2.12833E+11	3	155784648	2	45761125	2019
+Southwest Airlines 	WN	4	1.31349E+11	1	162681079	4	22427753	2019
+JetBlue Airways	B6	5	53619355173	5	42836468	6	8094008	2019
+Alaska Airlines  	AS	6	50357433518	7	35452332	5	8774664	2019
+Spirit Airlines	NK	7	35245226424	8	33868007	7	3830536	2019
+Frontier Airlines  	F9	8	24166696466	9	22666424	10	2508349	2019
+SkyWest Airlines  	OO	9	22627549294	6	42328839	8	2910753	2019
+Hawaiian Airlines  	HA	10	17792113608	16	11520063	9	2830131	2019
+Allegiant Air	G4	11	13127712166	15	14933055	11	1745985	2019
+Republic Airline	YX	12	11382204471	10	18844915	13	1349429	2019
+Mesa Airlines  	YV	13	8862027313	13	15049426	15	729236	2019
+Envoy Air	MQ	14	7524856245	14	15045236	12	1385341	2019
+Endeavor 	9E	15	7332584977	11	15127402	17	653164	2019
+PSA Airlines  	OH	16	6081711424	12	15092232	14	813871	2019
+Sun Country Airlines 	SY	17	4692069622	23	3520684	16	701383	2019
+Compass Airlines	CP	18	3382527870	18	6343566	21	228479	2019
+Horizon Air	QX	19	3217095154	17	7841796	18	450969	2019
+ExpressJet Airlines  	EV	20	2911929085	19	6031433	19	369401	2019
+GoJet Airlines   	G7	21	2361457510	21	4605508	20	265164	2019
+Air Wisconsin Airlines  	ZW	22	1545651683	22	4106349	/N	/N	2019
+Trans States Airlines	AX	23	1471821397	24	3040336	/N	/N	2019
+Piedmont Airlines	PT	24	1420097670	20	5030306	/N	/N	2019
+Commutair 	C5	25	924456688	25	2363605	/N	/N	2019
+Silver Airways	3M	26	142902586	26	557890	/N	/N	2019
+Era Aviation	7H	27	71319107	28	379201	/N	/N	2019
+Peninsula Airways	KS	28	69169319	34	141765	/N	/N	2019
+Contour Airlines	LF	29	54425216	32	181123	/N	/N	2019
+Cape Air	9K	30	51750630	27	481055	/N	/N	2019
+Boutique Air	4B	31	42827676	33	178940	/N	/N	2019
+Elite Airways	2HQ	32	26368688	50	24031	/N	/N	2019
+Seaborne Virgin Islands	SEB	33	25018358	30	209169	/N	/N	2019
+Hageland Aviation Service	H6	34	19238806	29	227063	/N	/N	2019
+Sun Air Express 	1RQ	35	16823352	37	99216	/N	/N	2019
+Empire Airlines	EM	36	13931166	31	197584	/N	/N	2019
+Multi-Aero   	0MQ	37	13491411	44	58347	/N	/N	2019
+Key Lime Air	38Q	38	13486636	45	39474	/N	/N	2019
+Wright Air Service	8V	39	11366328	43	58652	/N	/N	2019
+Grant Aviation	GV	40	9766985	35	123083	/N	/N	2019
+Mokulele Flight Services  	MW	41	8995436	36	118411	/N	/N	2019
+Bering Air  	8E	42	7878532	40	75858	/N	/N	2019
+ADVANCED AIR LLC	AN	43	6462566	49	27049	/N	/N	2019
+Tradewind Aviation	04Q	44	5537861	47	28680	/N	/N	2019
+Kalinin Aviation (Alaska Seaplanes)	J5	45	5265149	41	72118	/N	/N	2019
+Watermakers Air	3BQ	46	4338805	52	22563	/N	/N	2019
+Kenmore Air Harbor	KAH	47	4037849	42	68436	/N	/N	2019
+Charter Air Transport	1AQ	48	3987217	65	7585	/N	/N	2019
+Vieques Air Link  	VI	49	2275046	39	76442	/N	/N	2019
+Star Marianas Air 	1SQ	50	2157286	38	97531	/N	/N	2019
+Air Sunshine 	AAT	51	1982751	56	16535	/N	/N	2019
+Iliamna Air Taxi	V8	52	1818213	62	9787	/N	/N	2019
+Air Unlimited Charter Services	2TQ	53	1536232	67	5688	/N	/N	2019
+Island Air Express	I4	54	1224177	53	21538	/N	/N	2019
+Venture Travel   	K3	55	1217755	54	19403	/N	/N	2019
+City Wings 	1QQ	56	1066185	51	23692	/N	/N	2019
+Yute Commuter Service	K2	57	1017092	48	28138	/N	/N	2019
+Tropic Ocean Airways	2LQ	58	773568	61	10588	/N	/N	2019
+Tatonduk 	5V	59	643944	71	2828	/N	/N	2019
+Rectrix Aviation	3DQ	60	631954	55	18565	/N	/N	2019
+New England Airlines  	NEW	61	596785	46	35105	/N	/N	2019
+Island Air Service	2O	62	583316	60	12632	/N	/N	2019
+Warbelow	4W	63	522639	69	4427	/N	/N	2019
+Air Charter (Air Flamenco)	1YQ	64	476700	58	12935	/N	/N	2019
+Katmai Air	KAT	65	409568	59	12799	/N	/N	2019
+Air Excursions  	X4	66	407817	63	9244	/N	/N	2019
+Pacific Airways  	3F	67	352662	64	8557	/N	/N	2019
+Harris Air Services	HBQ	68	351440	66	5808	/N	/N	2019
+Smokey Bay Air  	2E	69	303819	57	13457	/N	/N	2019
+Friday Harbor Seaplanes	WST	70	269200	70	3365	/N	/N	2019
+Tanana Air Service	Z3	71	258607	68	5075	/N	/N	2019
+Grand Canyon Airlines 	YR	72	123926	73	1416	/N	/N	2019
+Gem Air	22Q	73	66202	76	417	/N	/N	2019
+Arctic Transportation	7S	74	63285	74	972	/N	/N	2019
+Reeve Air Alaska 	RVQ	75	56561	79	347	/N	/N	2019
+40-Mile Air	Q5	76	48087	75	502	/N	/N	2019
+Alaska Air Transit	2EQ	77	37584	78	348	/N	/N	2019
+Ellis Air Taxi  	ELL	78	35985	77	359	/N	/N	2019
+Maritime Helicopters	3AQ	79	13363	72	1912	/N	/N	2019
+Spernak Airways  	SNK	80	3933	80	56	/N	/N	2019

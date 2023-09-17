@@ -1,0 +1,9 @@
+American Airlines,AA
+Delta Air Lines,DL
+United Airlines,UA
+Southwest Airlines,WN
+Spirit Airlines,NK
+JetBlue Airways,B6 
+Alaska Airlines,AS 
+Frontier Airlines,F9
+

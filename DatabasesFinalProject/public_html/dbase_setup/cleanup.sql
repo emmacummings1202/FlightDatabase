@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS Airline;
+DROP TABLE IF EXISTS Airport;
+DROP TABLE IF EXISTS ArrivalAirport;
+DROP TABLE IF EXISTS ArrivalAirline;
+DROP TABLE IF EXISTS DeparturesAirline;
+DROP TABLE IF EXISTS DepartureAirport;
+DROP TABLE IF EXISTS AirlineRanking;
+DROP TABLE IF EXISTS AirportRanking;
+

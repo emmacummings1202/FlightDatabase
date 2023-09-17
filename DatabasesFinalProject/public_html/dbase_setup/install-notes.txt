@@ -1,0 +1,33 @@
+Emma Cummings ecummi10
+Rose Wolkins rwolkin1
+
+Our stored procedures are sql files that should also be inside our public_html folder.
+These stores procedures are used by our .php files (much like the format used in homework 4).
+
+It should be noted that our setup.sql and setup-small.sql are not identical, given the extended time
+frame of our project and how Rose and I were working on different time lines, the small-setup 
+includes a lot more individual tables that were cut out in setup.sql. The data in the -small text
+files are also arranged slightly differently as at the time they were made, the cleaned data was 
+not available yet. The -small text files were manually made and so were never got around to being 
+the same format at the larger text files. Given these facts, the stored procedures used in the php 
+files could not also be used for the setup-small tables. 
+
+One note is that upon running setup.sql it should take a long amount of time because our data set 
+is very large. Both setup.sql and setup-small.sql should run smoothly without errors.
+
+HTML details:
+Each query is numbered in our HTML, and here are the files that go with each:
+1. Num_Cancellations.php Num_Cancellations.sql (procedure name: high_cancel)
+2. Drop_Arrivals.php Drop_Arrivals.sql (procedure name: dropArrivals)
+3. Drop_Departures.php Drop_Departures.sql (procedure name: dropDepartures)
+4. Op_Profit_Delays.php Op_Profit_Delays.sql (procedure name: highDelay)
+5. Avg_Weather_Delay.php Avg_Weather_Delay.sql (procedure name: AvgWeatherDelay)
+6. High_Rank.php High_Rank.sql (procedure name: RankNumPass) 
+7. Airline_Divertions.php Airline_Divertions.sql (procedure name: airlineCancels)
+8. Airline_Arrival_Drops.php Airline_Arrival_Drops.sql (procedure name: dropArrivalsAirlines)
+9. Airline_Depart_Drops.php Airline_Depart_Drops.sql (procedure name: airlineDropDepartures)
+10. Ratio_Arrivals.php Ratio_Arrivals.sql (procedure name: finalRatio) 
+11. Delayed_Flights.php Delayed_Flights.sql (procedure name: departDelay)
+12. Percent_On_Time.php Percent_On_Time.sql (procedure name: percentOnTime) 
+
+No other special instructions needed.  

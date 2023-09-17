@@ -1,0 +1,9 @@
+1,American Airlines,AA,77051,20.4,2020
+2,Delta Air Lines,DL,66174,17.5,2020
+3,United Airlines,UA,62374,16.5,2020
+4,Southwest Airlines,WN,54224,14.3,2020
+5,Spirit Airlines,NK,19315,5.1,2020
+6,JetBlue Airways,B6,18600,4.9,2020
+7,Alaska Airlines,AS,17369,4.6,2020
+8,Frontier Airlines,F9,11434,3.0,2020
+

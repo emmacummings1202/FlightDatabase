@@ -1,0 +1,8 @@
+ATL,Atlanta,GA,Hartsfield-Jackson Atlanta International,683,66.47,15791,39,0,12/31/2021
+DEN,Denver,CO,Denver International,664,56.33,9318,146,0,12/31/2021
+ORD,Chicago,IL,Chicago O'Hare International,629,\N,7467,40,\N,12/31/2021
+DFW,Dallas/Fort Worth,TX,Dallas/Fort Worth International,610,\N,6640,23,\N,12/31/2021
+LAX,Los Angeles,CA,Los Angeles International,481,\N,10525,50,1,12/31/2021
+SEA,Seattle,WA,Seattle/Tacoma International,404,47.52,9160,79,\N,12/31/2021
+LAS,Las Vegas,NV,McCarran International,403,64.52,6026,28,2,12/31/2021
+CLT,Charlotte,NC,Charlotte Douglas International,403,\N,3340,\N,\N,12/31/2021

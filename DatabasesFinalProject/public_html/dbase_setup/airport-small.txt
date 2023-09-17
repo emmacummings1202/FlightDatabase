@@ -1,0 +1,9 @@
+ATL,Atlanta,GA,Hartsfield-Jackson Atlanta International
+DEN,Denver,CO,Denver International
+ORD,Chicago,IL,Chicago O'Hare International
+DFW,Dallas/Fort Worth,TX,Dallas/Fort Worth International
+LAX,Los Angeles,CA,Los Angeles International
+SEA,Seattle,WA,Seattle/Tacoma International
+LAS,Las Vegas,NV,McCarran International
+CLT,Charlotte,NC,Charlotte Douglas International
+

@@ -1,0 +1,967 @@
+
+<!-- ecummi10_rwolkin1.html Phase E -->
+ 
+<html>
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    </head>
+   <body class="bg-light text-dark">
+    <div class="mb-3 p-1">
+	<h1 class="display-3"> Welcome to the Flight Database! </h1>
+	<h2 class="display-2"> Interact with the prompts below to explore statistics on selected airlines and airports, their arrivals, departures, rankings, delays, cancellations, and more.</h2>  
+     
+    </div>
+        <!-- (1) -->
+    <div class="card border-dark row mb-3 p-4">
+        <h2 class="display-6">1. Show the number of arrival cancellations that a given state had in a given year:</h2>
+        <form action="Num_Cancellations.php" method="post">
+            <div class="mb-3 col-4 form-floating">
+                <input class="form-control" type="text" id="StateID" name="State" placeholder="NY">
+                <label for="StateID">State (2 letter abbreviation)</label>
+            </div>
+            <div class="mb-3 col-4 form-floating">
+                <input class="form-control"type="text" id="YearID" name="Year" placeholder="2021"> 
+                <label for="YearID">Year</label>
+            </div>
+                <button type="submit" class="btn btn-outline-primary">Submit</button>
+                
+        </form>
+    </div>
+        <!-- (2) -->
+        <div class="card border-dark row mb-3 p-4">
+            <h2 class="display-6"> 2. Show the number of departure cancellations that a given state had in a given year: </h2>
+        <form action="Num_Cancellations_Depart.php" method="post">
+            <div class="mb-3 col-4 form-floating">
+                <input class="form-control" type="text" id="StateID" name="State" placeholder="NY">
+                <label for="StateID">State (2 letter abbreviation)</label>
+            </div>
+            <div class="mb-3 col-4 form-floating">
+                <input class="form-control"type="text" id="YearID" name="Year" placeholder="2021"> 
+                <label for="YearID">Year</label>
+            </div>
+                <button type="submit" class="btn btn-outline-primary">Submit</button>
+        </form>
+        </div>
+
+        <!-- (3) -->
+        <div class="card border-dark mb-3 row p-4">
+        <h2 class="display-6">3. Show which airports had the biggest drop in number of arrivals from 2 given years</h2>
+        <form action="Drop_Arrivals.php" method="post">
+        <div class="row mb-3">
+            <div class="col-4">
+            <select class="form-select" name="Year1" id="Year1">
+            <option selected>Choose the start year:</option>
+            <option value="1987">1987</option>
+            <option value="1988">1988</option>
+            <option value="1989">1989</option>
+            <option value="1990">1990</option>
+            <option value="1991">1991</option>
+            <option value="1992">1992</option>
+            <option value="1993">1993</option>
+            <option value="1994">1994</option>
+            <option value="1995">1995</option>
+            <option value="1996">1996</option>
+            <option value="1997">1997</option>
+            <option value="1998">1998</option>
+            <option value="1999">1999</option>
+            <option value="2000">2000</option>
+            <option value="2001">2001</option>
+            <option value="2002">2002</option>
+            <option value="2003">2003</option>
+            <option value="2004">2004</option>
+            <option value="2005">2005</option>
+            <option value="2006">2006</option>
+            <option value="2007">2007</option>
+            <option value="2008">2008</option>
+            <option value="2009">2009</option>
+            <option value="2010">2010</option>
+            <option value="2011">2011</option>
+            <option value="2012">2012</option>
+            <option value="2013">2013</option>
+            <option value="2014">2014</option>
+            <option value="2015">2015</option>
+            <option value="2016">2016</option>
+            <option value="2017">2017</option>
+            <option value="2018">2018</option>
+            <option value="2019">2019</option>
+            <option value="2020">2020</option>
+            <option value="2021">2021</option>
+            </select> 
+            </div> 
+        <div class="col-4">
+            <select class="form-select" name="Year2" id="Year2">
+            <option selected>Choose the end year:</option>
+            <option value="1987">1987</option>
+            <option value="1988">1988</option>
+            <option value="1989">1989</option>
+            <option value="1990">1990</option>
+            <option value="1991">1991</option>
+            <option value="1992">1992</option>
+            <option value="1993">1993</option>
+            <option value="1994">1994</option>
+            <option value="1995">1995</option>
+            <option value="1996">1996</option>
+            <option value="1997">1997</option>
+            <option value="1998">1998</option>
+            <option value="1999">1999</option>
+            <option value="2000">2000</option>
+            <option value="2001">2001</option>
+            <option value="2002">2002</option>
+            <option value="2003">2003</option>
+            <option value="2004">2004</option>
+            <option value="2005">2005</option>
+            <option value="2006">2006</option>
+            <option value="2007">2007</option>
+            <option value="2008">2008</option>
+            <option value="2009">2009</option>
+            <option value="2010">2010</option>
+            <option value="2011">2011</option>
+            <option value="2012">2012</option>
+            <option value="2013">2013</option>
+            <option value="2014">2014</option>
+            <option value="2015">2015</option>
+            <option value="2016">2016</option>
+            <option value="2017">2017</option>
+            <option value="2018">2018</option>
+            <option value="2019">2019</option>
+            <option value="2020">2020</option>
+            <option value="2021">2021</option>
+            </select>
+        </div>
+        
+        <div class="col-4">
+            <button type="submit" class="btn btn-outline-primary">Submit</button>
+        </div>
+    </div>
+        </form>
+        </div>
+
+        <!-- (4) -->
+        <div class="border-dark card mb-3 p-4">
+        <h2 class="display-6">4.  Show which airports had the biggest drop in number of departures from 2 given years</h2>
+        <form action="Drop_Departures.php" method="post">
+            <div class="row mb-3">
+                <div class="col-4">
+                <select class="form-select" name="Year1" id="Year1">
+                <option selected>Choose the start year:</option>
+                <option value="1987">1987</option>
+                <option value="1988">1988</option>
+                <option value="1989">1989</option>
+                <option value="1990">1990</option>
+                <option value="1991">1991</option>
+                <option value="1992">1992</option>
+                <option value="1993">1993</option>
+                <option value="1994">1994</option>
+                <option value="1995">1995</option>
+                <option value="1996">1996</option>
+                <option value="1997">1997</option>
+                <option value="1998">1998</option>
+                <option value="1999">1999</option>
+                <option value="2000">2000</option>
+                <option value="2001">2001</option>
+                <option value="2002">2002</option>
+                <option value="2003">2003</option>
+                <option value="2004">2004</option>
+                <option value="2005">2005</option>
+                <option value="2006">2006</option>
+                <option value="2007">2007</option>
+                <option value="2008">2008</option>
+                <option value="2009">2009</option>
+                <option value="2010">2010</option>
+                <option value="2011">2011</option>
+                <option value="2012">2012</option>
+                <option value="2013">2013</option>
+                <option value="2014">2014</option>
+                <option value="2015">2015</option>
+                <option value="2016">2016</option>
+                <option value="2017">2017</option>
+                <option value="2018">2018</option>
+                <option value="2019">2019</option>
+                <option value="2020">2020</option>
+                <option value="2021">2021</option>
+                </select> 
+                </div> 
+            <div class="col-4">
+                <select class="form-select" name="Year2" id="Year2">
+                <option selected>Choose the end year:</option>
+                <option value="1987">1987</option>
+                <option value="1988">1988</option>
+                <option value="1989">1989</option>
+                <option value="1990">1990</option>
+                <option value="1991">1991</option>
+                <option value="1992">1992</option>
+                <option value="1993">1993</option>
+                <option value="1994">1994</option>
+                <option value="1995">1995</option>
+                <option value="1996">1996</option>
+                <option value="1997">1997</option>
+                <option value="1998">1998</option>
+                <option value="1999">1999</option>
+                <option value="2000">2000</option>
+                <option value="2001">2001</option>
+                <option value="2002">2002</option>
+                <option value="2003">2003</option>
+                <option value="2004">2004</option>
+                <option value="2005">2005</option>
+                <option value="2006">2006</option>
+                <option value="2007">2007</option>
+                <option value="2008">2008</option>
+                <option value="2009">2009</option>
+                <option value="2010">2010</option>
+                <option value="2011">2011</option>
+                <option value="2012">2012</option>
+                <option value="2013">2013</option>
+                <option value="2014">2014</option>
+                <option value="2015">2015</option>
+                <option value="2016">2016</option>
+                <option value="2017">2017</option>
+                <option value="2018">2018</option>
+                <option value="2019">2019</option>
+                <option value="2020">2020</option>
+                <option value="2021">2021</option>
+                </select>
+            </div>
+            <div class="col-4">
+                <button type="submit" class="btn btn-outline-primary">Submit</button>
+            </div>
+            </div>
+            </form>
+            </div>
+
+        <!-- (5) -->
+        <div class="card border-dark mb-3 p-4">
+        <h3 class="display-6"> 5. Show the average operating profit or loss for the airlines that experience the highest # of delays in a given year</h2>
+        <form action="Op_Profit_Delays.php" method="post">
+            <div class="row">
+                <div class="col-4 justify-content-center">
+                    <select class="form-select" name="Year" id="Year">
+                        <option selected>Choose year:</option>
+                        <option value="2008">2008</option>
+                        <option value="2009">2009</option>
+                        <option value="2010">2010</option>
+                        <option value="2011">2011</option>
+                        <option value="2012">2012</option>
+                        <option value="2013">2013</option>
+                        <option value="2014">2014</option>
+                        <option value="2015">2015</option>
+                        <option value="2016">2016</option>
+                        <option value="2017">2017</option>
+                        <option value="2018">2018</option>
+                        <option value="2019">2019</option>
+                        </select>
+                </div>
+                <div class="col-4">
+                    <button type="submit" class="btn btn-outline-primary">Submit</button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+        <!-- (6) -->
+        <div class="border-dark card mb-3 p-4">
+        <h2 class="display-6"> 6. What is the average weather delay for airlines in 2 given years?</h2>
+        <form action="Avg_Weather_Delay.php" method="post">
+                  <div class="row mb-3">
+                    <div class="col-4">
+                    <select class="form-select" name="Year1" id="Year1">
+                    <option selected>Choose the start year:</option>
+                    <option value="1987">1987</option>
+                    <option value="1988">1988</option>
+                    <option value="1989">1989</option>
+                    <option value="1990">1990</option>
+                    <option value="1991">1991</option>
+                    <option value="1992">1992</option>
+                    <option value="1993">1993</option>
+                    <option value="1994">1994</option>
+                    <option value="1995">1995</option>
+                    <option value="1996">1996</option>
+                    <option value="1997">1997</option>
+                    <option value="1998">1998</option>
+                    <option value="1999">1999</option>
+                    <option value="2000">2000</option>
+                    <option value="2001">2001</option>
+                    <option value="2002">2002</option>
+                    <option value="2003">2003</option>
+                    <option value="2004">2004</option>
+                    <option value="2005">2005</option>
+                    <option value="2006">2006</option>
+                    <option value="2007">2007</option>
+                    <option value="2008">2008</option>
+                    <option value="2009">2009</option>
+                    <option value="2010">2010</option>
+                    <option value="2011">2011</option>
+                    <option value="2012">2012</option>
+                    <option value="2013">2013</option>
+                    <option value="2014">2014</option>
+                    <option value="2015">2015</option>
+                    <option value="2016">2016</option>
+                    <option value="2017">2017</option>
+                    <option value="2018">2018</option>
+                    <option value="2019">2019</option>
+                    <option value="2020">2020</option>
+                    <option value="2021">2021</option>
+                    </select> 
+                    </div> 
+                <div class="col-4">
+                    <select class="form-select" name="Year2" id="Year2">
+                    <option selected>Choose the end year:</option>
+                    <option value="1987">1987</option>
+                    <option value="1988">1988</option>
+                    <option value="1989">1989</option>
+                    <option value="1990">1990</option>
+                    <option value="1991">1991</option>
+                    <option value="1992">1992</option>
+                    <option value="1993">1993</option>
+                    <option value="1994">1994</option>
+                    <option value="1995">1995</option>
+                    <option value="1996">1996</option>
+                    <option value="1997">1997</option>
+                    <option value="1998">1998</option>
+                    <option value="1999">1999</option>
+                    <option value="2000">2000</option>
+                    <option value="2001">2001</option>
+                    <option value="2002">2002</option>
+                    <option value="2003">2003</option>
+                    <option value="2004">2004</option>
+                    <option value="2005">2005</option>
+                    <option value="2006">2006</option>
+                    <option value="2007">2007</option>
+                    <option value="2008">2008</option>
+                    <option value="2009">2009</option>
+                    <option value="2010">2010</option>
+                    <option value="2011">2011</option>
+                    <option value="2012">2012</option>
+                    <option value="2013">2013</option>
+                    <option value="2014">2014</option>
+                    <option value="2015">2015</option>
+                    <option value="2016">2016</option>
+                    <option value="2017">2017</option>
+                    <option value="2018">2018</option>
+                    <option value="2019">2019</option>
+                    <option value="2020">2020</option>
+                    <option value="2021">2021</option>
+                    </select>
+                </div>
+                <div class="col-4">
+                    <button type="submit" class="btn btn-outline-primary">Submit</button>
+                </div>
+                </div>
+                </form>
+        </div>
+
+        <!-- (7) -->
+        <div class="row mb-3 card border-dark p-4">
+        <h2 class="display-6 col-9">7. Which airport is consistently ranked highest for revenue passenger miles? </h2>
+        <form class="col justify-content-left" action="High_Rank.php" method="post">
+            <button type="submit" class="col btn btn-outline-primary">
+                <i class="bi bi-lightbulb-fill"></i> Survey Says
+            </button>
+                
+        </form>
+        </div>
+
+
+        <!-- (8) -->
+        <div class="mb-3 p-4 card border-dark row">
+        <h2 class="display-6">8. What month does a given airline have the most divertions?</h2>
+        <form action="Airline_Divertions.php" method="post">
+            <div class="row">
+                <div class="col-4">
+                    <ul class="list-group">
+                            <li class="list-group-item">Endeavor Air Inc.   9E</li>
+                            <li class="list-group-item">American Airlines Inc.      AA</li>
+                            <li class="list-group-item">Alaska Airlines Inc.        AS</li>
+                            <li class="list-group-item">JetBlue Airways     B6</li>
+                            <li class="list-group-item">Delta Air Lines Inc.        DL</li>
+                            <li class="list-group-item">ExpressJet Airlines LLC     EV</li>
+                            <li class="list-group-item">Frontier Airlines Inc.      F9</li>
+                            <li class="list-group-item">Allegiant Air       G4</li>
+                            <li class="list-group-item">Hawaiian Airlines Inc.      HA</li>
+                            <li class="list-group-item">Envoy Air   MQ</li>
+                            <li class="list-group-item">Spirit Air Lines    NK</li>
+                            <li class="list-group-item">Comair Inc. OH</li>
+                            <li class="list-group-item">SkyWest Airlines Inc.       OO</li>
+                            <li class="list-group-item">Horizon Air QX</li>
+                            <li class="list-group-item">United Air Lines Inc.       UA</li>
+                            <li class="list-group-item">Southwest Airlines Co.      WN</li>
+                            <li class="list-group-item">Mesa Airlines Inc.  YV</li>
+                            <li class="list-group-item">Republic Airline    YX</li>
+                    </ul>
+                </div>
+                <div class="mb-3 col-4 align-self-center form-floating">
+                    <input class="form-control" type="text" id="airlineCode" name="airlineCode" placeholder="AA">
+                    <label for="airlineCode">&nbsp;&nbsp;Airline Code</label>
+                </div>
+                <div class="mb-3 col-4 align-self-center">
+                    <button type="submit" class="btn btn-outline-primary">Submit</button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+        <!-- (9) -->
+        <div class="card border-dark mb-3 p-4">
+        <h2 class="display-6">9. What airlines had the biggest drop in # of arrivals from a given start and end Year?</h2>
+        <form action="Airline_Arrival_Drops.php" method="post">
+            <div class="row mb-3">
+                <div class="col-4">
+                <select class="form-select" name="Year1" id="Year1">
+                <option selected>Choose the start year:</option>
+                <option value="1987">1987</option>
+                <option value="1988">1988</option>
+                <option value="1989">1989</option>
+                <option value="1990">1990</option>
+                <option value="1991">1991</option>
+                <option value="1992">1992</option>
+                <option value="1993">1993</option>
+                <option value="1994">1994</option>
+                <option value="1995">1995</option>
+                <option value="1996">1996</option>
+                <option value="1997">1997</option>
+                <option value="1998">1998</option>
+                <option value="1999">1999</option>
+                <option value="2000">2000</option>
+                <option value="2001">2001</option>
+                <option value="2002">2002</option>
+                <option value="2003">2003</option>
+                <option value="2004">2004</option>
+                <option value="2005">2005</option>
+                <option value="2006">2006</option>
+                <option value="2007">2007</option>
+                <option value="2008">2008</option>
+                <option value="2009">2009</option>
+                <option value="2010">2010</option>
+                <option value="2011">2011</option>
+                <option value="2012">2012</option>
+                <option value="2013">2013</option>
+                <option value="2014">2014</option>
+                <option value="2015">2015</option>
+                <option value="2016">2016</option>
+                <option value="2017">2017</option>
+                <option value="2018">2018</option>
+                <option value="2019">2019</option>
+                <option value="2020">2020</option>
+                <option value="2021">2021</option>
+                </select> 
+                </div> 
+            <div class="col-4">
+                <select class="form-select" name="Year2" id="Year2">
+                <option selected>Choose the end year:</option>
+                <option value="1987">1987</option>
+                <option value="1988">1988</option>
+                <option value="1989">1989</option>
+                <option value="1990">1990</option>
+                <option value="1991">1991</option>
+                <option value="1992">1992</option>
+                <option value="1993">1993</option>
+                <option value="1994">1994</option>
+                <option value="1995">1995</option>
+                <option value="1996">1996</option>
+                <option value="1997">1997</option>
+                <option value="1998">1998</option>
+                <option value="1999">1999</option>
+                <option value="2000">2000</option>
+                <option value="2001">2001</option>
+                <option value="2002">2002</option>
+                <option value="2003">2003</option>
+                <option value="2004">2004</option>
+                <option value="2005">2005</option>
+                <option value="2006">2006</option>
+                <option value="2007">2007</option>
+                <option value="2008">2008</option>
+                <option value="2009">2009</option>
+                <option value="2010">2010</option>
+                <option value="2011">2011</option>
+                <option value="2012">2012</option>
+                <option value="2013">2013</option>
+                <option value="2014">2014</option>
+                <option value="2015">2015</option>
+                <option value="2016">2016</option>
+                <option value="2017">2017</option>
+                <option value="2018">2018</option>
+                <option value="2019">2019</option>
+                <option value="2020">2020</option>
+                <option value="2021">2021</option>
+                </select>
+            </div>
+            <div class="col-4">
+                <button type="submit" class="btn btn-outline-primary">Submit</button>
+            </div>
+            </div>
+            </form>
+        </div>
+
+        <!-- (10) -->
+        <div class="card border-dark mb-3 p-4">
+        <h2 class="display-6"> 10. What airlines had the biggest drop in # of departures from a given start and end Year?</h2>
+        <form action="Airline_Depart_Drops.php" method="post">
+            <div class="row mb-3">
+                <div class="col-4">
+                <select class="form-select" name="Year1" id="Year1">
+                <option selected>Choose the start year:</option>
+                <option value="1987">1987</option>
+                <option value="1988">1988</option>
+                <option value="1989">1989</option>
+                <option value="1990">1990</option>
+                <option value="1991">1991</option>
+                <option value="1992">1992</option>
+                <option value="1993">1993</option>
+                <option value="1994">1994</option>
+                <option value="1995">1995</option>
+                <option value="1996">1996</option>
+                <option value="1997">1997</option>
+                <option value="1998">1998</option>
+                <option value="1999">1999</option>
+                <option value="2000">2000</option>
+                <option value="2001">2001</option>
+                <option value="2002">2002</option>
+                <option value="2003">2003</option>
+                <option value="2004">2004</option>
+                <option value="2005">2005</option>
+                <option value="2006">2006</option>
+                <option value="2007">2007</option>
+                <option value="2008">2008</option>
+                <option value="2009">2009</option>
+                <option value="2010">2010</option>
+                <option value="2011">2011</option>
+                <option value="2012">2012</option>
+                <option value="2013">2013</option>
+                <option value="2014">2014</option>
+                <option value="2015">2015</option>
+                <option value="2016">2016</option>
+                <option value="2017">2017</option>
+                <option value="2018">2018</option>
+                <option value="2019">2019</option>
+                <option value="2020">2020</option>
+                <option value="2021">2021</option>
+                </select> 
+                </div> 
+            <div class="col-4">
+                <select class="form-select" name="Year2" id="Year2">
+                <option selected>Choose the end year:</option>
+                <option value="1987">1987</option>
+                <option value="1988">1988</option>
+                <option value="1989">1989</option>
+                <option value="1990">1990</option>
+                <option value="1991">1991</option>
+                <option value="1992">1992</option>
+                <option value="1993">1993</option>
+                <option value="1994">1994</option>
+                <option value="1995">1995</option>
+                <option value="1996">1996</option>
+                <option value="1997">1997</option>
+                <option value="1998">1998</option>
+                <option value="1999">1999</option>
+                <option value="2000">2000</option>
+                <option value="2001">2001</option>
+                <option value="2002">2002</option>
+                <option value="2003">2003</option>
+                <option value="2004">2004</option>
+                <option value="2005">2005</option>
+                <option value="2006">2006</option>
+                <option value="2007">2007</option>
+                <option value="2008">2008</option>
+                <option value="2009">2009</option>
+                <option value="2010">2010</option>
+                <option value="2011">2011</option>
+                <option value="2012">2012</option>
+                <option value="2013">2013</option>
+                <option value="2014">2014</option>
+                <option value="2015">2015</option>
+                <option value="2016">2016</option>
+                <option value="2017">2017</option>
+                <option value="2018">2018</option>
+                <option value="2019">2019</option>
+                <option value="2020">2020</option>
+                <option value="2021">2021</option>
+                </select>
+            </div>
+            <div class="col-4">
+                <button type="submit" class="btn btn-outline-primary">Submit</button>
+            </div>
+            </div>
+            </form>
+        </div>
+        <!-- (11) -->
+        <div class="card mb-4 p-4 border-dark">
+        <h2 class="display-6">11. In a given year  what is the average ratio of arrivals canceled to departures canceled at 2 given airports?</h2>
+        <form action="Ratio_Arrivals.php" method="post">
+            <div class="row">
+            <div class="col-3">
+                <select class="form-select" name="Year" id="Year">
+                <option selected>Choose the end year:</option>
+                <option value="1987">1987</option>
+                <option value="1988">1988</option>
+                <option value="1989">1989</option>
+                <option value="1990">1990</option>
+                <option value="1991">1991</option>
+                <option value="1992">1992</option>
+                <option value="1993">1993</option>
+                <option value="1994">1994</option>
+                <option value="1995">1995</option>
+                <option value="1996">1996</option>
+                <option value="1997">1997</option>
+                <option value="1998">1998</option>
+                <option value="1999">1999</option>
+                <option value="2000">2000</option>
+                <option value="2001">2001</option>
+                <option value="2002">2002</option>
+                <option value="2003">2003</option>
+                <option value="2004">2004</option>
+                <option value="2005">2005</option>
+                <option value="2006">2006</option>
+                <option value="2007">2007</option>
+                <option value="2008">2008</option>
+                <option value="2009">2009</option>
+                <option value="2010">2010</option>
+                <option value="2011">2011</option>
+                <option value="2012">2012</option>
+                <option value="2013">2013</option>
+                <option value="2014">2014</option>
+                <option value="2015">2015</option>
+                <option value="2016">2016</option>
+                <option value="2017">2017</option>
+                <option value="2018">2018</option>
+                <option value="2019">2019</option>
+                <option value="2020">2020</option>
+                <option value="2021">2021</option>
+                </select>
+            </div>  
+        <div class="col-3">
+        <select class="form-select" name="Code1" id="Code1">
+          <option selected> Choose the first airport:</option>
+            <option value="ABQ">Albuquerque International Sunport</option>
+            <option value="ANC">Ted Stevens Anchorage International</option>
+            <option value="ATL">Hartsfield-Jackson Atlanta Internatio</option>
+            <option value="AUS">Austin - Bergstrom International</option>
+            <option value="BWI">Baltimore/Washington International</option>
+            <option value="BOS">Logan International</option>
+            <option value="BUF">Buffalo Niagara International</option>
+            <option value="BUR">Bob Hope</option>
+            <option value="CLT">Charlotte Douglas International</option>
+            <option value="MDW">Chicago Midway International</option>
+            <option value="ORD">Chicago O'Hare International</option>
+            <option value="CVG">Cincinnati/Northern Kentucky Inter</option>
+            <option value="CLE">Cleveland-Hopkins International</option>
+            <option value="COS">City of Colorado Springs Mun</option>
+            <option value="CMH">John Glenn Columbus International</option>
+            <option value="DAL">Dallas Love Field</option>
+            <option value="DFW">Dallas/Fort Worth Internati</option>
+            <option value="DEN">Denver International</option>
+            <option value="DTW">Detroit Metro Wayne County</option>
+            <option value="ELP">El Paso International</option>
+            <option value="FLL">Fort Lauderdale-Hollywood Int</option>
+            <option value="RSW">Southwest Florida International</option>
+            <option value="BDL">Bradley International</option>
+            <option value="HNL">Daniel K Inouye International</option>
+            <option value="HOU">William P Hobby</option>
+            <option value="IAH">George Bush Intercontinental/Houston</option>
+            <option value="IND">Indianapolis International</option>
+            <option value="JAX">Jacksonville International</option>
+            <option value="OGG">Kahului Airport</option>
+            <option value="FCA">Glacier Park International</option>
+            <option value="MCI">Kansas City International</option>
+            <option value="LAS">McCarran International</option>
+            <option value="LAX">Los Angeles International</option>
+            <option value="MEM">Memphis International</option>
+            <option value="MIA">Miami International</option>
+            <option value="MKE">General Mitchell International</option>
+            <option value="MSP">Minneapolis-St Paul International</option>
+            <option value="BNA">Nashville International</option>
+            <option value="MSY">Louis Armstrong New Orleans Inter</o-ption>
+            <option value="JFK">John F. Kennedy International</option>
+            <option value="LGA">LaGuardia</option>
+            <option value="EWR">Newark Liberty International</option>
+            <option value="OAK">Metropolitan Oakland International</option>
+            <option value="ONT">Ontario International</option>
+            <option value="MCO">Orlando International</option>
+            <option value="PHL">Philadelphia International</option>
+            <option value="PHX">Phoenix Sky Harbor International</option>
+            <option value="PIT">Pittsburgh International</option>
+            <option value="PDX">Portland International</option>
+            <option value="PRC">Prescott Regional Ernest A Love Fiel</option>
+            <option value="PVD">Theodore Francis Green State</option>
+            <option value="RDU">Raleigh-Durham International</option>
+            <option value="SMF">Sacramento International</option>
+            <option value="SLC">Salt Lake City International</option>
+            <option value="SAT">San Antonio International</option>
+            <option value="SAN">San Diego International</option>
+            <option value="SJC">Norman Y. Mineta San Jose Internatio</option>
+            <option value="SJU">Luis Munoz Marin International</option>
+            <option value="SNA">John Wayne Airport-Orange County</option>
+            <option value="SEA">Seattle/Tacoma International</option>
+            <option value="GEG">Spokane International</option>
+            <option value="SGU">St George Regional</option>
+            <option value="STL">St Louis Lambert International</option>
+            <option value="TPA">Tampa International</option>
+            <option value="ACT">Waco Regional</option>
+            <option value="IAD">Ronald Reagan Washington National</option>
+            <option value="DCA">Washington Dulles International</option>
+            <option value="PBI">Palm Beach Interna</option>
+            <option value="WYS">Yellowstone</option>
+        </select>
+        </div>
+
+
+        <div class="col-3">
+        <select class="form-select" name="Code2" id="Code2">
+        <option selected> Choose the second airport:</option>
+            <option value="ABQ">Albuquerque International Sunport</option>
+            <option value="ANC">Ted Stevens Anchorage International</option>
+            <option value="ATL">Hartsfield-Jackson Atlanta Internatio</option>
+            <option value="AUS">Austin - Bergstrom International</option>
+            <option value="BWI">Baltimore/Washington International</option>
+            <option value="BOS">Logan International</option>
+            <option value="BUF">Buffalo Niagara International</option>
+            <option value="BUR">Bob Hope</option>
+            <option value="CLT">Charlotte Douglas International</option>
+            <option value="MDW">Chicago Midway International</option>
+            <option value="ORD">Chicago O'Hare International</option>
+            <option value="CVG">Cincinnati/Northern Kentucky Inter</option>
+            <option value="CLE">Cleveland-Hopkins International</option>
+            <option value="COS">City of Colorado Springs Mun</option>
+            <option value="CMH">John Glenn Columbus International</option>
+            <option value="DAL">Dallas Love Field</option>
+            <option value="DFW">Dallas/Fort Worth Internati</option>
+            <option value="DEN">Denver International</option>
+            <option value="DTW">Detroit Metro Wayne County</option>
+            <option value="ELP">El Paso International</option>
+            <option value="FLL">Fort Lauderdale-Hollywood Int</option>
+            <option value="RSW">Southwest Florida International</option>
+            <option value="BDL">Bradley International</option>
+            <option value="HNL">Daniel K Inouye International</option>
+            <option value="HOU">William P Hobby</option>
+            <option value="IAH">George Bush Intercontinental/Houston</option>
+            <option value="IND">Indianapolis International</option>
+            <option value="JAX">Jacksonville International</option>
+            <option value="OGG">Kahului Airport</option>
+            <option value="FCA">Glacier Park International</option>
+            <option value="MCI">Kansas City International</option>
+            <option value="LAS">McCarran International</option>
+            <option value="LAX">Los Angeles International</option>
+            <option value="MEM">Memphis International</option>
+            <option value="MIA">Miami International</option>
+            <option value="MKE">General Mitchell International</option>
+            <option value="MSP">Minneapolis-St Paul International</option>
+            <option value="BNA">Nashville International</option>
+            <option value="MSY">Louis Armstrong New Orleans Inter</o-ption>
+            <option value="JFK">John F. Kennedy International</option>
+            <option value="LGA">LaGuardia</option>
+            <option value="EWR">Newark Liberty International</option>
+            <option value="OAK">Metropolitan Oakland International</option>
+            <option value="ONT">Ontario International</option>
+            <option value="MCO">Orlando International</option>
+            <option value="PHL">Philadelphia International</option>
+            <option value="PHX">Phoenix Sky Harbor International</option>
+            <option value="PIT">Pittsburgh International</option>
+            <option value="PDX">Portland International</option>
+            <option value="PRC">Prescott Regional Ernest A Love Fiel</option>
+            <option value="PVD">Theodore Francis Green State</option>
+            <option value="RDU">Raleigh-Durham International</option>
+            <option value="SMF">Sacramento International</option>
+            <option value="SLC">Salt Lake City International</option>
+            <option value="SAT">San Antonio International</option>
+            <option value="SAN">San Diego International</option>
+            <option value="SJC">Norman Y. Mineta San Jose Internatio</option>
+            <option value="SJU">Luis Munoz Marin International</option>
+            <option value="SNA">John Wayne Airport-Orange County</option>
+            <option value="SEA">Seattle/Tacoma International</option>
+            <option value="GEG">Spokane International</option>
+            <option value="SGU">St George Regional</option>
+            <option value="STL">St Louis Lambert International</option>
+            <option value="TPA">Tampa International</option>
+            <option value="ACT">Waco Regional</option>
+            <option value="IAD">Ronald Reagan Washington National</option>
+            <option value="DCA">Washington Dulles International</option>
+            <option value="PBI">Palm Beach Interna</option>
+            <option value="WYS">Yellowstone</option>
+        </select> 
+        </div>
+        <div class="col-3">
+            <button type="submit" class="btn btn-outline-primary">Submit</button>
+        </div>
+        </div>
+     </form>
+     </div>
+
+
+
+
+        <!-- (12) -->
+        <div class="mb-3 p-4 card border-dark">
+        <h2 class="display-6">12. In which months does a given airport have the highest # of flights delayed 15+ min?</h2>
+        <form action="Delayed_Flights.php" method="post">
+        <div class="row">
+        <div class="col-4">
+        <select class="form-select" name="airportCode" id="airportCode">
+          <option selected> Choose an airport:</option>
+            <option value="ABQ">Albuquerque International Sunport</option>
+            <option value="ANC">Ted Stevens Anchorage International</option>
+            <option value="ATL">Hartsfield-Jackson Atlanta Internatio</option>
+            <option value="AUS">Austin - Bergstrom International</option>
+            <option value="BWI">Baltimore/Washington International</option>
+            <option value="BOS">Logan International</option>
+            <option value="BUF">Buffalo Niagara International</option>
+            <option value="BUR">Bob Hope</option>
+            <option value="CLT">Charlotte Douglas International</option>
+            <option value="MDW">Chicago Midway International</option>
+            <option value="ORD">Chicago O'Hare International</option>
+            <option value="CVG">Cincinnati/Northern Kentucky Inter</option>
+            <option value="CLE">Cleveland-Hopkins International</option>
+            <option value="COS">City of Colorado Springs Mun</option>
+            <option value="CMH">John Glenn Columbus International</option>
+            <option value="DAL">Dallas Love Field</option>
+            <option value="DFW">Dallas/Fort Worth Internati</option>
+            <option value="DEN">Denver International</option>
+            <option value="DTW">Detroit Metro Wayne County</option>
+            <option value="ELP">El Paso International</option>
+            <option value="FLL">Fort Lauderdale-Hollywood Int</option>
+            <option value="RSW">Southwest Florida International</option>
+            <option value="BDL">Bradley International</option>
+            <option value="HNL">Daniel K Inouye International</option>
+            <option value="HOU">William P Hobby</option>
+            <option value="IAH">George Bush Intercontinental/Houston</option>
+            <option value="IND">Indianapolis International</option>
+            <option value="JAX">Jacksonville International</option>
+            <option value="OGG">Kahului Airport</option>
+            <option value="FCA">Glacier Park International</option>
+            <option value="MCI">Kansas City International</option>
+            <option value="LAS">McCarran International</option>
+            <option value="LAX">Los Angeles International</option>
+            <option value="MEM">Memphis International</option>
+            <option value="MIA">Miami International</option>
+            <option value="MKE">General Mitchell International</option>
+            <option value="MSP">Minneapolis-St Paul International</option>
+            <option value="BNA">Nashville International</option>
+            <option value="MSY">Louis Armstrong New Orleans Inter</o-ption>
+            <option value="JFK">John F. Kennedy International</option>
+            <option value="LGA">LaGuardia</option>
+            <option value="EWR">Newark Liberty International</option>
+            <option value="OAK">Metropolitan Oakland International</option>
+            <option value="ONT">Ontario International</option>
+            <option value="MCO">Orlando International</option>
+            <option value="PHL">Philadelphia International</option>
+            <option value="PHX">Phoenix Sky Harbor International</option>
+            <option value="PIT">Pittsburgh International</option>
+            <option value="PDX">Portland International</option>
+            <option value="PRC">Prescott Regional Ernest A Love Fiel</option>
+            <option value="PVD">Theodore Francis Green State</option>
+            <option value="RDU">Raleigh-Durham International</option>
+            <option value="SMF">Sacramento International</option>
+            <option value="SLC">Salt Lake City International</option>
+            <option value="SAT">San Antonio International</option>
+            <option value="SAN">San Diego International</option>
+            <option value="SJC">Norman Y. Mineta San Jose Internatio</option>
+            <option value="SJU">Luis Munoz Marin International</option>
+            <option value="SNA">John Wayne Airport-Orange County</option>
+            <option value="SEA">Seattle/Tacoma International</option>
+            <option value="GEG">Spokane International</option>
+            <option value="SGU">St George Regional</option>
+            <option value="STL">St Louis Lambert International</option>
+            <option value="TPA">Tampa International</option>
+            <option value="ACT">Waco Regional</option>
+            <option value="IAD">Ronald Reagan Washington National</option>
+            <option value="DCA">Washington Dulles International</option>
+            <option value="PBI">Palm Beach Interna</option>
+            <option value="WYS">Yellowstone</option>
+        </select> 
+        </div>
+        <div class="col-4">
+            <button type="submit" class="btn btn-outline-primary">Submit</button>
+    </div>
+</div>
+   </form>
+</div>
+
+
+        <!-- (13) -->
+        <div class="p-4 mb-3 card border-dark">   
+        <h2 class="display-6">13. Given a year (between 2009 and 2019), what is the percent of on-time flights for the top rated airports?</h2>
+        <form action="Percent_On_Time.php" method="post">
+            <div class="row">
+                <div class="col-4 form-floating">
+                    <input class="form-control"type="text" id="YearID" name="Year" placeholder="2021"> 
+                    <label for="YearID">&nbsp;&nbsp;Year</label>
+                </div>
+            <div class="col-4 align-self-center">
+            <button type="submit" class="btn btn-outline-primary">Submit</button>
+        </div>
+        </div>
+        </form>
+    </div>
+
+
+
+        <!-- (insertion) -->
+        <div class="card border-dark row mb-3 p-4">
+            <h2 class="display-6">14.  Insert airport information below to add it to the database </h2>
+        <form action="insert.php" method="post">
+            <div class="mb-3 col-4 form-floating">
+                <input class="form-control" type="text" id="nearestCity" name="nearestCity" placeholder="Hogwarts">
+                <label for="nearestCity">City</label>
+            </div>
+            <div class="mb-3 col-4 form-floating">
+                <input class="form-control"type="text" id="stateName" name="stateName" placeholder="HP">
+                <label for="stateName">State (2 Letter Abreviation)</label>
+            </div>
+	    <div class="mb-3 col-4 form-floating">
+		<input class="form-control"type="text" id="airportCode" name="airportCode" placeholder="DMB">
+		<label for="airportCode">3 Letter Airport Code</label>
+            </div>
+	    <div class="mb-3 col-4 form-floating">
+		<input class="form-control"type="text" id="airportName" name="airportName" placeholder="Wizarding Intergalactical">
+		<label for="airportName">Airport Name</label>
+            </div>
+            <button type="submit" class="btn btn-outline-primary">Submit</button>
+        </form>
+        </div>
+
+
+	<!-- (deletion) -->
+	<div class="card border-dark row mb-3 p-4">
+            <h2 class="display-6">14.  Enter an airport code here to delete all of its arrival stats from the database </h2>
+	<form action="delete.php" method="post">
+            <div class="mb-3 col-4 form-floating">
+		<input class="form-control"type="text" id="airportCode" name="airportCode" placeholder="DMB">
+		<label for="airportCode"> 3 Letter Airport Code</label>
+            </div>
+              <button type="submit" class="btn btn-outline-primary">Submit</button>
+	</form>
+	</div>
+
+
+	<div class="card border-dark row mb-3 p-4">
+	  <h3>Data was retrieved from BTS airport rankings, BTS airline rankings, and Dataplanet Arrivals & Departures. </h3>
+	  </div>
+
+   </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
